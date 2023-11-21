@@ -47,14 +47,17 @@ const App = () => {
       const randomIndex = Math.floor(Math.random() * remainingQuestions.length);
       const randomQuestion = remainingQuestions[randomIndex];
       setCurrentQuestion(randomQuestion);
-      setAnsweredQuestions([...answeredQuestions, randomQuestion.id]);
-
-      const playedQuestions = localStorage.getItem('playedQuestions');
-      localStorage.setItem(
-        'playedQuestions',
-        playedQuestions ? [...playedQuestions, randomQuestion.id] : [randomQuestion.id]
-      );
     }
+  };
+
+  const removeQuestion = () => {
+    setDisplayQuestion(true);
+    setAnsweredQuestions([...answeredQuestions, currentQuestion.id]);
+    const playedQuestions = localStorage.getItem('playedQuestions');
+    localStorage.setItem(
+      'playedQuestions',
+      playedQuestions ? [...playedQuestions, currentQuestion.id] : [currentQuestion.id]
+    );
   };
 
   const resetGame = () => {
@@ -64,42 +67,49 @@ const App = () => {
     setGameState("welcome");
     setDisplayQuestion(false);
     setDisplayAnswer(false);
+    window.location.reload();
   };
 
   let content;
   switch (gameState) {
     case "welcome":
-      content = (<div className="welcome">
-        <h2 className="question-number">Welcome!</h2>
-        <br />
-        <button className="start-button" onClick={getRandomQuestion}>
-          Start Game
-        </button>
-        <br />
-        <br />
-        <button className="play-again-button" onClick={resetGame}>
-          Reset
-        </button>
-      </div>);
+      content = (
+        <>
+          <h1 className="app-title">CSC Trivia Night</h1>
+          <div className="welcome">
+            <h2 className="question-number">Welcome!</h2>
+            <br />
+            <button className="start-button" onClick={getRandomQuestion}>
+              Start Game
+            </button>
+            <br />
+            <br />
+            <button className="play-again-button" onClick={resetGame}>
+              Reset
+            </button>
+          </div>
+        </>);
       break;
 
     case "playing":
       content = (<div className="question-container">
+        <h1 className="app-title">Trivia Game</h1>
         <p className="question-number">Category: {currentQuestion.category}</p>
         {(displayQuestion ? <p className="question-text">{currentQuestion.question}</p> : null)}
         {(displayAnswer ? <p className="answer-text">{currentQuestion.answer}</p> : null)}
-        {(displayAnswer ? <button className="next-button" onClick={getRandomQuestion}>Next Question</button> : 
-        (displayQuestion ? <button className="next-button" onClick={() => setDisplayAnswer(true)}>Show Answer</button> :
-        <button className="next-button" onClick={() => setDisplayQuestion(true)}>Show Question</button>))}
+        <br />
+        {(displayAnswer ? <button className="next-button" onClick={getRandomQuestion}>Next Question</button> :
+          (displayQuestion ? <button className="next-button" onClick={() => setDisplayAnswer(true)}>Show Answer</button> :
+            <button className="next-button" onClick={() => removeQuestion()}>Show Question</button>))}
 
       </div>);
       break;
 
     case "gameOver":
       content = (<div className="welcome">
-        <h2 className="question-number">Game Over!</h2>
+        <h2 className="question-number">Out of Questions!</h2>
         <button className="play-again-button" onClick={resetGame}>
-          Play Again?
+          Reset Pool?
         </button>
       </div>);
       break;
@@ -107,7 +117,6 @@ const App = () => {
 
   return (
     <div className={`app 'dark-mode' : ''}`}>
-      <h1 className="app-title">CSC Trivia Night</h1>
       {content}
     </div>
   );
