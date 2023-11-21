@@ -1,0 +1,12 @@
+[
+  { "id": 1, "question": "What is the capital of Japan?", "answer": "Tokyo", "category": "Category A"},
+  { "id": 2, "question": "In which year did the Titanic sink?", "answer": "1912", "category": "Category A" },
+  { "id": 3, "question": "Who wrote 'Romeo and Juliet'?", "answer": "William Shakespeare", "category": "Category A" },
+  { "id": 4, "question": "What is the largest mammal on Earth?", "answer": "Blue Whale", "category": "Category A" },
+  { "id": 5, "question": "Which planet is known as the Red Planet?", "answer": "Mars", "category": "Category A" },
+  { "id": 6, "question": "Who discovered penicillin?", "answer": "Alexander Fleming", "category": "Category B" },
+  { "id": 7, "question": "What is the capital of Australia?", "answer": "Canberra", "category": "Category B" },
+  { "id": 8, "question": "In which year did World War I begin?", "answer": "1914", "category": "Category B" },
+  { "id": 9, "question": "Who wrote 'To Kill a Mockingbird'?", "answer": "Harper Lee", "category": "Category B" },
+  { "id": 10, "question": "What is the largest desert in the world?", "answer": "Antarctica", "category": "Category B" }
+]
