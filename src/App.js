@@ -6,8 +6,9 @@ const App = () => {
   const [questions, setQuestions] = useState([]);
   const [currentQuestion, setCurrentQuestion] = useState(null);
   const [answeredQuestions, setAnsweredQuestions] = useState([]);
-  const [donePlaying, setDonePlaying] = useState(false);
   const [gameState, setGameState] = useState("welcome");
+  const [displayQuestion, setDisplayQuestion] = useState(false);
+  const [displayAnswer, setDisplayAnswer] = useState(false);
 
   useEffect(() => {
     const fetchQuestions = async () => {
@@ -32,12 +33,13 @@ const App = () => {
 
   const getRandomQuestion = () => {
     setGameState("playing");
+    setDisplayQuestion(false);
+    setDisplayAnswer(false);
     const remainingQuestions = questions.filter(
       (question) => !answeredQuestions.includes(question.id)
     );
 
     if (remainingQuestions.length === 0) {
-      setDonePlaying(true);
       setCurrentQuestion(null);
       setQuestions([]);
       setGameState("gameOver");
@@ -58,9 +60,10 @@ const App = () => {
   const resetGame = () => {
     setCurrentQuestion(null);
     setAnsweredQuestions([]);
-    setDonePlaying(false);
     localStorage.setItem('playedQuestions', []);
     setGameState("welcome");
+    setDisplayQuestion(false);
+    setDisplayAnswer(false);
   };
 
   let content;
@@ -82,11 +85,13 @@ const App = () => {
 
     case "playing":
       content = (<div className="question-container">
-        <p className="question-number">{currentQuestion.category}</p>
-        <p className="question-text">{currentQuestion.question}</p>
-        <button className="next-button" onClick={getRandomQuestion}>
-          Next Question
-        </button>
+        <p className="question-number">Category: {currentQuestion.category}</p>
+        {(displayQuestion ? <p className="question-text">{currentQuestion.question}</p> : null)}
+        {(displayAnswer ? <p className="answer-text">{currentQuestion.answer}</p> : null)}
+        {(displayAnswer ? <button className="next-button" onClick={getRandomQuestion}>Next Question</button> : 
+        (displayQuestion ? <button className="next-button" onClick={() => setDisplayAnswer(true)}>Show Answer</button> :
+        <button className="next-button" onClick={() => setDisplayQuestion(true)}>Show Question</button>))}
+
       </div>);
       break;
 

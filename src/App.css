@@ -40,6 +40,12 @@ body {
   margin-bottom: 20px;
 }
 
+.answer-text {
+  font-size: 50px;
+  margin-bottom: 20px;
+  color: #4caf50; /* Adjusted color for answers */
+}
+
 .next-button,
 .play-again-button,
 .start-button {
@@ -60,7 +66,6 @@ body {
   background-color: #4fa3d1;
 }
 
-/* Added styles for the dropdown menu */
 .file-dropdown {
   margin-bottom: 20px;
 }
@@ -72,7 +77,6 @@ body {
   outline: none;
 }
 
-/* Added style for disabled button */
 .next-button:disabled,
 .play-again-button:disabled,
 .start-button:disabled {
