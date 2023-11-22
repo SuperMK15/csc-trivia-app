@@ -14,7 +14,8 @@ const App = () => {
     const fetchQuestions = async () => {
       try {
         const questionData = require('./questions.json');
-        const playedQuestions = localStorage.getItem('playedQuestions');
+        const localStoragePlayedQuestions = localStorage.getItem('playedQuestions');
+        const playedQuestions = localStoragePlayedQuestions ? JSON.parse(localStoragePlayedQuestions) : [];
         let filteredQuestionData = questionData;
         if (playedQuestions) {
           filteredQuestionData = questionData.filter(
@@ -23,6 +24,7 @@ const App = () => {
         }
         setQuestions(filteredQuestionData);
         console.log(filteredQuestionData);
+        console.log(playedQuestions);
       } catch (error) {
         console.error('Error fetching questions:', error);
       }
@@ -53,17 +55,18 @@ const App = () => {
   const removeQuestion = () => {
     setDisplayQuestion(true);
     setAnsweredQuestions([...answeredQuestions, currentQuestion.id]);
-    const playedQuestions = localStorage.getItem('playedQuestions');
+    const localStoragePlayedQuestions = localStorage.getItem('playedQuestions');
+    const playedQuestions = localStoragePlayedQuestions ? JSON.parse(localStoragePlayedQuestions) : [];
     localStorage.setItem(
       'playedQuestions',
-      playedQuestions ? [...playedQuestions, currentQuestion.id] : [currentQuestion.id]
+      JSON.stringify(playedQuestions ? [...playedQuestions, currentQuestion.id] : [currentQuestion.id])
     );
   };
 
   const resetGame = () => {
     setCurrentQuestion(null);
     setAnsweredQuestions([]);
-    localStorage.setItem('playedQuestions', []);
+    localStorage.setItem('playedQuestions', '');
     setGameState("welcome");
     setDisplayQuestion(false);
     setDisplayAnswer(false);
