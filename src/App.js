@@ -95,7 +95,12 @@ const App = () => {
       content = (<div className="question-container">
         <h1 className="app-title">Trivia Game</h1>
         <p className="question-number">Category: {currentQuestion.category}</p>
-        {(displayQuestion ? <p className="question-text">{currentQuestion.question}</p> : null)}
+        {(displayQuestion ? 
+          (<>
+            <p className="question-text">{currentQuestion.question}</p>
+            {(currentQuestion.img !== "N/A") ? <img className="question-image" src={"./images/"+currentQuestion.img} alt="Question Image" /> : null}
+          </>)
+          : null)}
         {(displayAnswer ? <p className="answer-text">{currentQuestion.answer}</p> : null)}
         <br />
         {(displayAnswer ? <button className="next-button" onClick={getRandomQuestion}>Next Question</button> :

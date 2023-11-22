@@ -84,3 +84,9 @@ body {
   color: #666666;
   cursor: not-allowed;
 }
+
+.question-image {
+  max-width: 400px;
+  max-height: 400px;
+  margin-bottom: 20px;
+}
