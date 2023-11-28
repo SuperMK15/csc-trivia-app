@@ -1,4 +1,4 @@
-# csc-trivia-app
+# CSC Trivia App
 A web application used to host UWaterloo's CS Club's Trivia Nights.
 
 In order to use this, simply follow the prescribed JSON format below and modify the questions.json file as required.
