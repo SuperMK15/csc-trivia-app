@@ -1,155 +1,1080 @@
 [
-  { "id": 1, "question": "Slogan: The happiest place on Earth", "answer": "Disneyland", "category": "Brand Logos & Slogans", "img": "N/A" },
-  { "id": 2, "question": "Slogan: Play. Laugh. Grow.", "answer": "Fisher Price", "category": "Brand Logos & Slogans", "img": "N/A" },
-  { "id": 3, "question": "Slogan: Power of Dreams", "answer": "Honda", "category": "Brand Logos & Slogans", "img": "N/A" },
-  { "id": 4, "question": "What logo is this?", "answer": "Leetcode", "category": "Brand Logos & Slogans", "img": "leetcode-logo.png" },
-  { "id": 5, "question": "What logo is this?", "answer": "Air China", "category": "Brand Logos & Slogans", "img": "air-china-logo.png" },
-  { "id": 6, "question": "What logo is this?", "answer": "CSC", "category": "Brand Logos & Slogans", "img": "csc-logo.png" },
-  { "id": 7, "question": "What logo is this?", "answer": "Mini Cooper", "category": "Brand Logos & Slogans", "img": "mini-cooper-logo.png" },
-  { "id": 8, "question": "What logo is this?", "answer": "Ford", "category": "Brand Logos & Slogans", "img": "ford-logo.png" },
-  { "id": 9, "question": "What logo is this?", "answer": "Java", "category": "Brand Logos & Slogans", "img": "java-logo.png" },
-  { "id": 10, "question": "What logo is this?", "answer": "Notepad++", "category": "Brand Logos & Slogans", "img": "notepad-logo.png" },
-
-  {"id": 11, "question": "How many countries are there in Africa? ", "answer": "54", "category": "Geography", "img": "N/A"},
-  {"id": 12, "question": "What continent does Bermuda belong to? ", "answer": "North America", "category": "Geography", "img": "N/A"},
-  {"id": 13, "question": "Name the five Great Lakes of North America ", "answer": "Superior, Huron, Erie, Ontario, Michigan", "category": "Geography", "img": "N/A"},
-  {"id": 14, "question": "What country celebrates New Years first? ", "answer": "Kiribati", "category": "Geography", "img": "N/A"},
-  {"id": 15, "question": "In which city can you find the Hallgrímskirkja? ", "answer": "Reykjavík", "category": "Geography", "img": "N/A"},
-  {"id": 16, "question": "How many countries have french as an official language? ", "answer": "29", "category": "Geography", "img": "N/A"},
-  {"id": 17, "question": "Yellowstone National Park is located primarily in which two U.S. states? ", "answer": "Wyoming & Montana", "category": "Geography", "img": "N/A"},
-  {"id": 18, "question": "The Galápagos Islands, known for their unique wildlife, belong to which South American country? ", "answer": "Ecuador", "category": "Geography", "img": "N/A"},
-  {"id": 19, "question": "Name the capital of British Columbia ", "answer": "Victoria", "category": "Geography", "img": "N/A"},
-  {"id": 20, "question": "According to the 2023 World Happiness Report, what is the happiest country in the world? ", "answer": "Finland", "category": "Geography", "img": "N/A"},
-
-  {"id": 21, "question": "The Berlin Wall, which divided East and West Berlin during the Cold War, fell in which year? ", "answer": "1989", "category": "History", "img": "N/A"},
-  {"id": 22, "question": "What event triggered the start of World War I in 1914? ", "answer": "The assassination of Archduke Franz Ferdinand", "category": "History", "img": "N/A"},
-  {"id": 23, "question": "In what year did Confederation happen in Canada ", "answer": "1867", "category": "History", "img": "N/A"},
-  {"id": 24, "question": "Which leader led the Bolsheviks in the Russian Revolution of 1917? ", "answer": "Vladimir Lenin", "category": "History", "img": "N/A"},
-  {"id": 25, "question": "Which country was the first to grant women the right to vote? ", "answer": "New Zealand, 1893", "category": "History", "img": "N/A"},
-  {"id": 26, "question": "What was the name of the first artificial satellite launched into space? ", "answer": "Sputnik I", "category": "History", "img": "N/A"},
-  {"id": 27, "question": "What poker card did American soldiers in Vietnam often wear on their helmets? ", "answer": "Ace of Spades", "category": "History", "img": "N/A"},
-  {"id": 28, "question": "What year did the Great Depression begin? ", "answer": "1929", "category": "History", "img": "N/A"},
-  {"id": 29, "question": "Which ancient civilization is known for creating the first known democracy? ", "answer": "Athens", "category": "History", "img": "N/A"},
-  {"id": 30, "question": "Which civilization is credited with the invention of paper? ", "answer": "China, Court Offical Cai Lun", "category": "History", "img": "N/A"},
-
-  {"id": 31, "question": "Name the two astronauts on the Apollo 11 mission that landed on the moon? ", "answer": "Neil Armstrong and Buzz Aldrin", "category": "Dynamic Duos", "img": "N/A"},
-  {"id": 32, "question": "Name the hit flash-game featuring two elemental characters on CoolMathGames ", "answer": "Fireboy and Watergirl", "category": "Dynamic Duos", "img": "N/A"},
-  {"id": 33, "question": "Name the star-crossed lovers in this famous Shakespearean tragedy ", "answer": "Romea and Juliet", "category": "Dynamic Duos", "img": "N/A"},
-  {"id": 34, "question": "What was the last name of the two brothers that flew the first powered plane ", "answer": "The Wright Brothers", "category": "Dynamic Duos", "img": "N/A"},
-  {"id": 35, "question": "Name the lover-criminal pair that were notorious for their bank robberies during the Great Depression ", "answer": "Bonnie and Clyde", "category": "Dynamic Duos", "img": "N/A"},
-  {"id": 36, "question": "Which US President and White House intern 'did not have sexual relations'? ", "answer": "Bill Clinton and Monica Lewinsky", "category": "Dynamic Duos", "img": "N/A"},
-  {"id": 37, "question": "Who is the brilliant detective and companion, a retired army doctor, in the stories by Sir Arthur Conan Doyle? ", "answer": "Sherlock and Watson", "category": "Dynamic Duos", "img": "N/A"},
-  {"id": 38, "question": "Name the husband-and-wife team known for their work in discovering radioactivity ", "answer": "Pierre and Marie Curie", "category": "Dynamic Duos", "img": "N/A"},
-  {"id": 39, "question": "Name the twin brothers in Roman mythology, founders of Rome. ", "answer": "Romulus and Remus", "category": "Dynamic Duos", "img": "N/A"},
-  {"id": 40, "question": "In Greek mythology, which pair represents the union of the god of the underworld and the goddess of vegetation, embodying the cycle of nature's death and rebirth?", "answer": "Hades and Persephone", "category": "Dynamic Duos", "img": "N/A"},
-
-  {"id": 41, "question": "This is the first question on LeetCode", "answer": "Two Sum", "category": "Popular Leetcode Questions", "img": "N/A"},
-  {"id": 42, "question": "This popular binary tree question involves swapping the left and right children of every node", "answer": "Invert Binary Tree", "category": "Popular Leetcode Questions", "img": "N/A"},
-  {"id": 43, "question": "At our NeetCode Q&A, NeetCode said his favorite LeetCode question was this extraterrestrial hard graph problem ", "answer": "Alien Dictionary", "category": "Popular Leetcode Questions", "img": "N/A"},
-  {"id": 44, "question": "This medium dynamic programming question involves maximizing the amount of money stolen from a list of houses ", "answer": "House Robber", "category": "Popular Leetcode Questions", "img": "N/A"},
-  {"id": 45, "question": "This is the most common easy stack problem on LeetCode ", "answer": "Valid Parentheses", "category": "Popular Leetcode Questions", "img": "N/A"},
-  {"id": 46, "question": "This hard two pointer problem involves finding the amount of water trapped in an elevation map after it rains ", "answer": "Trapping Rain Water", "category": "Popular Leetcode Questions", "img": "N/A"},
-  {"id": 47, "question": "This medium problem with a greedy solution involves checking whether the end of a list can be reached, given the number of jumps forward that can be made from each position in the list ", "answer": "Jump Game", "category": "Popular Leetcode Questions", "img": "N/A"},
-  {"id": 48, "question": "This easy Linked List problem is often memed as being an incredibly common interview question ", "answer": "Reverse Linked List", "category": "Popular Leetcode Questions", "img": "N/A"},
-  {"id": 49, "question": "This hard backtracking problem involves finding how many ways there are to place a given number of queens on a chess board without having them attack each other ", "answer": "N Queens", "category": "Popular Leetcode Questions", "img": "N/A"},
-  {"id": 50, "question": "This extremely simple problem whose name contains four Zs involves printing different words depending on what numbers the input is divisible by", "answer": "Fizz Buzz", "category": "Popular Leetcode Questions", "img": "N/A"},
-
-  {"id": 51, "question": "Which big tech company has had the most layoffs since January 2022? ", "answer": "Amazon with 37000", "category": "Big Tech Companies", "img": "N/A"},
-  {"id": 52, "question": "What is the current largest tech company by market value? ", "answer": "Apple $2.7 trillion", "category": "Big Tech Companies", "img": "N/A"},
-  {"id": 53, "question": "What is the name of Google's parent company? ", "answer": "Alphabet", "category": "Big Tech Companies", "img": "N/A"},
-  {"id": 54, "question": "Name two social media platforms owned by Meta ", "answer": "Facebook, Instagram, WhatsApp", "category": "Big Tech Companies", "img": "N/A"},
-  {"id": 55, "question": "To the nearest $5 billion, how much did Elon Musk spend on acquiring Twitter? ", "answer": "$45 billion", "category": "Big Tech Companies", "img": "N/A"},
-  {"id": 56, "question": "In what year was Netflix founded? ", "answer": "1997", "category": "Big Tech Companies", "img": "N/A"},
-  {"id": 57, "question": "What video game company, often considered 'big tech', is the creator of Project L? ", "answer": "Riot Games", "category": "Big Tech Companies", "img": "N/A"},
-  {"id": 58, "question": "What company controls the largest part of the US rideshare market? ", "answer": "Uber", "category": "Big Tech Companies", "img": "N/A"},
-  {"id": 59, "question": "What social media platform is owned by Microsoft? ", "answer": "LinkedIn", "category": "Big Tech Companies", "img": "N/A"},
-  {"id": 60, "question": "To the nearest $5 billion, how much did Elon Musk spend on acquiring Twitter? ", "answer": "$45 billion", "category": "Big Tech Companies", "img": "N/A"},
-
-  {"id": 61, "question": "What is the current stable release of the C++ standard ", "answer": "C++20", "category": "Coding Languages and Frameworks", "img": "N/A"},
-  {"id": 62, "question": "Out of the following, what is the oldest programming language: COBOL, Fortran, Lisp, BASIC ", "answer": "Fortran", "category": "Coding Languages and Frameworks", "img": "N/A"},
-  {"id": 63, "question": "What coding language is most commonly used for iOS mobile development? ", "answer": "Swift", "category": "Coding Languages and Frameworks", "img": "N/A"},
-  {"id": 64, "question": "What popular frontend web framework was developed by Facebook in 2013? ", "answer": "React", "category": "Coding Languages and Frameworks", "img": "N/A"},
-  {"id": 65, "question": "What does CSS stand for? ", "answer": "Cascading Style Sheets", "category": "Coding Languages and Frameworks ", "img": "N/A"},
-  {"id": 66, "question": "What coding language, developed by google, has a light blue rodent as a mascot? ", "answer": "Go", "category": "Coding Languages and Frameworks", "img": "N/A"},
-  {"id": 67, "question": "What does SQL stand for? ", "answer": "Structured Query Language", "category": "Coding Languages and Frameworks", "img": "N/A"},
-  {"id": 68, "question": "What popular coding language is known for its extremely simple syntax, and is often memed to be like 'writing in English' ", "answer": "Python", "category": "Coding Languages and Frameworks", "img": "N/A"},
-  {"id": 69, "question": "What coding language shares its name with a primary-colored gemstone? ", "answer": "Ruby", "category": "Coding Languages and Frameworks", "img": "N/A"},
-  {"id": 70, "question": "What relatively new coding lanuage, known for its high performance and efficiency, shares its name with a multiplayer survival Steam game? ", "answer": "Rust", "category": "Coding Languages and Frameworks", "img": "N/A"},
-
-  {"id": 71, "question": "What is the longest-running animated television show in the United States? ", "answer": "The Simpsons", "category": "Pop Culture", "img": "N/A"},
-  {"id": 72, "question": "Which jersey number does Taylor Swift's boyfriend have? ", "answer": "87", "category": "Pop Culture", "img": "N/A"},
-  {"id": 73, "question": "How old is Zac Efron? ", "answer": "36", "category": "Pop Culture", "img": "N/A"},
-  {"id": 74, "question": "How tall is Daniel Radcliffe? ", "answer": "5'5\"", "category": "Pop Culture", "img": "N/A"},
-  {"id": 75, "question": "What is the highest-grossing Pixar film of all time? ", "answer": "The Incredibles 2", "category": "Pop Culture", "img": "N/A"},
-  {"id": 76, "question": "Who is the most followed person on Instagram?", "answer": "500 Million followers", "category": "Pop Culture", "img": "N/A"},
-  {"id": 77, "question": "What is the most watched Youtube video of all time?", "answer": "Baby Shark Dance", "category": "Pop Culture", "img": "N/A"},
-  {"id": 78, "question": "What show currently holds Netflix's all time viewership record?", "answer": "Squid Game", "category": "Pop Culture", "img": "N/A"},
-  {"id": 79, "question": "How many Fast & Furious movies are there in the main franchise?", "answer": "10", "category": "Pop Culture", "img": "N/A"},
-  {"id": 80, "question": "In the 2023 Film about Barbie, which actress plays this role?", "answer": "Margot Robbie", "category": "Pop Culture", "img": "N/A"},
-
-  {"id": 81, "question": "What is a group of Pandas called?", "answer": "embarrassment, a cupboard or a bamboo", "category": "Animals", "img": "N/A"},
-  {"id": 82, "question": "What is the largest land animal (by weight)?", "answer": "African elephant", "category": "Animals", "img": "N/A"},
-  {"id": 83, "question": "What is the fastest marine animal?", "answer": "Sailfish", "category": "Animals", "img": "N/A"},
-  {"id": 84, "question": "What is a baby whale called?", "answer": "Calf", "category": "Animals", "img": "N/A"},
-  {"id": 85, "question": "What is the name of the largest lizard in the world?", "answer": "The Komodo dragon", "category": "Animals", "img": "N/A"},
-  {"id": 86, "question": "The body of the Egyptian Sphinx was based on which animal?", "answer": "Lion", "category": "Animals", "img": "N/A"},
-  {"id": 87, "question": "How many wings do bees have?", "answer": "4", "category": "Animals", "img": "N/A"},
-  {"id": 88, "question": "What breed of dog is the tallest in the world?", "answer": "Irish Wolfhound", "category": "Animals", "img": "N/A"},
-  {"id": 89, "question": "Red, fennec, Arctic and bat-eared are all species of which animal?", "answer": "Fox", "category": "Animals", "img": "N/A"},
-  {"id": 90, "question": "What is primarily stored in a camel's hump?", "answer": "fat", "category": "Animals", "img": "N/A"},
-
-  {"id": 91, "question": "What course is this: MATH 135", "answer": "Algebra for Honours Mathematics", "category": "UW Courses", "img": "N/A"},
-  {"id": 92, "question": "What course is this: SCI 206", "answer": "The Physics of How Things Work", "category": "UW Courses", "img": "N/A"},
-  {"id": 93, "question": "What course is this: CS 350", "answer": "Operating Systems", "category": "UW Courses", "img": "N/A"},
-  {"id": 94, "question": "What course is this: SPCOM 225", "answer": "Interviewing", "category": "UW Courses", "img": "N/A"},
-  {"id": 95, "question": "What course is this: MUSIC 140", "answer": "Popular Music and Culture", "category": "UW Courses", "img": "N/A"},
-  {"id": 96, "question": "What course is this: Statistics", "answer": "STAT 231", "category": "UW Courses", "img": "N/A"},
-  {"id": 97, "question": "What course is this: Introduction to Macroeconomics", "answer": "ECON 102", "category": "UW Courses", "img": "N/A"},
-  {"id": 98, "question": "What course is this: Computer Security and Privacy", "answer": "CS 458", "category": "UW Courses", "img": "N/A"},
-  {"id": 99, "question": "What course is this: Logic and Computation", "answer": "CS 245", "category": "UW Courses", "img": "N/A"},
-  {"id": 100, "question": "What course is this: Elementary Algorithm Design and Data Abstraction", "answer": "CS 136", "category": "UW Courses", "img": "N/A"},
-
-  {"id": 101, "question": "Guess the celebrity from the image:", "answer": "Nick Jonas", "category": "Guess the Celebrity", "img": "nick-jonas.png"},
-  {"id": 102, "question": "Guess the celebrity from the image:", "answer": "Brad Pitt", "category": "Guess the Celebrity", "img": "brad-pitt.png"},
-  {"id": 103, "question": "Guess the celebrity from the image:", "answer": "Kourtney Kardashian", "category": "Guess the Celebrity", "img": "kourtney-kardashian.png"},
-  {"id": 104, "question": "Guess the celebrity from the image:", "answer": "Taylor Swift", "category": "Guess the Celebrity", "img": "taylor-swift.png"},
-  {"id": 105, "question": "Guess the celebrity from the image:", "answer": "Miley Cyrus", "category": "Guess the Celebrity", "img": "miley-cyrus.png"},
-  {"id": 106, "question": "Guess the celebrity from the image:", "answer": "Timothée Chalamet", "category": "Guess the Celebrity", "img": "timothee-chalamet.png"},
-  {"id": 107, "question": "Guess the celebrity from the image:", "answer": "Kevin Hart", "category": "Guess the Celebrity", "img": "kevin-hart.png"},
-  {"id": 108, "question": "Guess the celebrity from the image:", "answer": "Ryan Gosling", "category": "Guess the Celebrity", "img": "ryan-gosling.png"},
-  {"id": 109, "question": "Guess the celebrity from the image:", "answer": "The Rock", "category": "Guess the Celebrity", "img": "the-rock.png"},
-  {"id": 110, "question": "Guess the celebrity from the image:", "answer": "Ariana Grande", "category": "Guess the Celebrity", "img": "ariana-grande.png"},
-
-  {"id": 111, "question": "How long do Chinese New Year celebrations last? ", "answer": "15 or 16 days", "category": "Holidays Around the World", "img": "N/A"},
-  {"id": 112, "question": "What is the annual celebration of African-American culture from December 26 to January 1 called? ", "answer": "Kwanzaa", "category": "Holidays Around the World", "img": "N/A"},
-  {"id": 113, "question": "What is the 8-day Jewish festival often recognized by the lighting of candles each day? ", "answer": "Hanukkah", "category": "Holidays Around the World", "img": "N/A"},
-  {"id": 114, "question": "What is the ninth month of the Islamic calendar, observed by fasting, prayer, and community called? ", "answer": "Ramadan", "category": "Holidays Around the World", "img": "N/A"},
-  {"id": 115, "question": "What does it mean on Groundhog day when the groundhog sees its shadow? ", "answer": "6 more weeks of winter", "category": "Holidays Around the World", "img": "N/A"},
-  {"id": 116, "question": "What is the first day of Lent called? ", "answer": "Ash Wednesday", "category": "Holidays Around the World", "img": "N/A"},
-  {"id": 117, "question": "What is December 21, the shortest day of the year called? ", "answer": "Winter Solstice", "category": "Holidays Around the World", "img": "N/A"},
-  {"id": 118, "question": "What is Japan's 1,000-year-old festival celebrating girls called? ", "answer": "Hina Matsuri", "category": "Holidays Around the World", "img": "N/A"},
-  {"id": 119, "question": "What is the Hindu festival celebrated as the Festival of Colours, Love, and Spring? ", "answer": "Holi", "category": "Holidays Around the World", "img": "N/A"},
-  {"id": 120, "question": "What is the Hindu festial of lights? ", "answer": "Diwali", "category": "Holidays Around the World", "img": "N/A"},
-
-  {"id": 121, "question": "What city skyline is this:", "answer": "Macau", "category": "City Skylines", "img": "macau.png"},
-  {"id": 122, "question": "What city skyline is this:", "answer": "New York", "category": "City Skylines", "img": "new-york.png"},
-  {"id": 123, "question": "What city skyline is this:", "answer": "Las Vegas", "category": "City Skylines", "img": "las-vegas.png"},
-  {"id": 124, "question": "What city skyline is this:", "answer": "Rio de Janeiro", "category": "City Skylines", "img": "rio-de-janeiro.png"},
-  {"id": 125, "question": "What city skyline is this:", "answer": "San Francisco", "category": "City Skylines", "img": "san-francisco.png"},
-  {"id": 126, "question": "What city skyline is this:", "answer": "Dubai", "category": "City Skylines", "img": "dubai.png"},
-  {"id": 127, "question": "What city skyline is this:", "answer": "Seattle", "category": "City Skylines", "img": "seattle.png"},
-  {"id": 128, "question": "What city skyline is this:", "answer": "Singapore", "category": "City Skylines", "img": "singapore.png"},
-  {"id": 129, "question": "What city skyline is this:", "answer": "Shanghai", "category": "City Skylines", "img": "shanghai.png"},
-  {"id": 130, "question": "What city skyline is this:", "answer": "Sydney", "category": "City Skylines", "img": "sydney.png"},
-
-  {"id": 131, "question": "How many Play-Doh colours are there? ", "answer": "60", "category": "Children's Toys", "img": "N/A"},
-  {"id": 132, "question": "What year was Mr. Potato Head invented? ", "answer": "1949", "category": "Children's Toys", "img": "N/A"},
-  {"id": 133, "question": "What is the most expensive Lego Set to this day? ", "answer": "Millenium Falcon", "category": "Children's Toys", "img": "N/A"},
-  {"id": 134, "question": "What is the rarest Pokemon card? ", "answer": "Pikachu Illustrator card", "category": "Children's Toys", "img": "N/A"},
-  {"id": 135, "question": "These popular shaped bracelets died down because of concerns of cutting off blood circulation. ", "answer": "Silly Bandz", "category": "Children's Toys", "img": "N/A"},
-  {"id": 136, "question": "These spinning top toys were first released in July 1999 in Japan. ", "answer": "Beyblades", "category": "Children's Toys", "img": "N/A"},
-  {"id": 137, "question": "What is the name of the plush toys with an associated toy-to-life game similar to Club Penguin? ", "answer": "Webkinz", "category": "Children's Toys", "img": "N/A"},
-  {"id": 138, "question": "These bracelets were banned in two New York City schools in schools for being distracting and dangerous. ", "answer": "Rainbow Loom", "category": "Children's Toys", "img": "N/A"},
-  {"id": 139, "question": "What are these toys called? ", "answer": "Furbys", "category": "Children's Toys", "img": "furbys.png"},
-  {"id": 140, "question": "What are these toys called? ", "answer": "Cabbage patch dolls", "category": "Children's Toys", "img": "cabbage-patch-dolls.png"}
+  {
+    "id": 1,
+    "question": "Guess the logo in the image",
+    "answer": "Target",
+    "category": "Logos",
+    "img": "targetlogo.png"
+  },
+  {
+    "id": 2,
+    "question": "Guess the logo in the image",
+    "answer": "Dreamworks Animation",
+    "category": "Logos",
+    "img": "dreamworkslogo.jpg"
+  },
+  {
+    "id": 3,
+    "question": "Guess the logo in the image",
+    "answer": "Computer Science Club",
+    "category": "Logos",
+    "img": "csc-logo.png"
+  },
+  {
+    "id": 4,
+    "question": "Guess the logo in the image",
+    "answer": "Chanel",
+    "category": "Logos",
+    "img": "chanellogo.png"
+  },
+  {
+    "id": 5,
+    "question": "Guess the logo in the image",
+    "answer": "Codeforces",
+    "category": "Logos",
+    "img": "codeforceslogo.png"
+  },
+  {
+    "id": 6,
+    "question": "Guess the logo in the image",
+    "answer": "Miami Heat",
+    "category": "Logos",
+    "img": "miamiheatlogo.png"
+  },
+  {
+    "id": 7,
+    "question": "Guess the logo in the image",
+    "answer": "X (Twitter)",
+    "category": "Logos",
+    "img": "Xlogo.jpg"
+  },
+  {
+    "id": 8,
+    "question": "Guess the logo in the image",
+    "answer": "Uzbekistan Airways",
+    "category": "Logos",
+    "img": "uzbekistanairwayslogo.png"
+  },
+  {
+    "id": 9,
+    "question": "Guess the logo in the image",
+    "answer": "Bank of America",
+    "category": "Logos",
+    "img": "bankofamericalogo.png"
+  },
+  {
+    "id": 10,
+    "question": "Guess the logo in the image",
+    "answer": "Formula 1",
+    "category": "Logos",
+    "img": "formulaonelogo.png"
+  },
+  {
+    "id": 11,
+    "question": "This language, created by James Gosling at Sun Microsystems in the mid-1990s, is designed to be platform-independent and is known for its \"write once, run anywhere\" mantra.",
+    "answer": "Java",
+    "category": "Guess the Language",
+    "img": "N/A"
+  },
+  {
+    "id": 12,
+    "question": "Created by a Danish computer scientist in 1986, this language is often used for scientific and numerical computing. It is known for its concise syntax and powerful array operations.",
+    "answer": "Matlab",
+    "category": "Guess the Language",
+    "img": "N/A"
+  },
+  {
+    "id": 13,
+    "question": "Originating from a research project at Bell Labs in the 1970s, this language is characterized by its simplicity and readability. It is widely used for systems programming and is often considered an alternative to C for low-level development.",
+    "answer": "Go/Golang",
+    "category": "Guess the Language",
+    "img": "N/A"
+  },
+  {
+    "id": 14,
+    "question": "This programming language, developed by Microsoft in the early 2000s, is part of the .NET framework and is often used for building Windows applications, web services, and video games on Unity. It features strong typing, garbage collection, and extensive class libraries.",
+    "answer": "C#",
+    "category": "Guess the Language",
+    "img": "N/A"
+  },
+  {
+    "id": 15,
+    "question": "Developed by Guido van Rossum in the late 1980s, it is known for its simplicity and code readability. Very popular in scripting and machine learning.",
+    "answer": "Python",
+    "category": "Guess the Language",
+    "img": "N/A"
+  },
+  {
+    "id": 16,
+    "question": "This language, developed by Apple in the late 1980s, is primarily used for macOS and iOS application development. It features a concise syntax and is known for its ease of use.",
+    "answer": "Swift",
+    "category": "Guess the Language",
+    "img": "N/A"
+  },
+  {
+    "id": 17,
+    "question": "Developed by Brendan Eich at Netscape Communications Corporation in the mid-1990s, this language is primarily used for client-side web development. It is known for its dynamic typing and prototype-based object orientation.",
+    "answer": "JavaScript",
+    "category": "Guess the Language",
+    "img": "N/A"
+  },
+  {
+    "id": 18,
+    "question": "Originating from a research project at Bell Labs in the 1980s, this language is known for its strong emphasis on functional programming principles. It features immutable data structures and lazy evaluation and is known for its strong pattern matching features.",
+    "answer": "Haskell",
+    "category": "Guess the Language",
+    "img": "N/A"
+  },
+  {
+    "id": 19,
+    "question": "This language, initially known as \"PLT Scheme,\" is a general-purpose, multi-paradigm programming language. It is famous for its strong support for functional programming.",
+    "answer": "Racket",
+    "category": "Guess the Language",
+    "img": "N/A"
+  },
+  {
+    "id": 20,
+    "question": "This low-level programming language is specific to a particular computer architecture and is often used for tasks that require precise control over hardware resources. It typically consists of simple instructions directly corresponding to machine code instructions.",
+    "answer": "Assembly",
+    "category": "Guess the Language",
+    "img": "N/A"
+  },
+  {
+    "id": 21,
+    "question": "Give the course code for the course \"Operating Systems\"",
+    "answer": "CS 350",
+    "category": "UW Course Codes",
+    "img": "N/A"
+  },
+  {
+    "id": 22,
+    "question": "Give the course name of CS 251",
+    "answer": "Computer Organization and Design",
+    "category": "UW Course Codes",
+    "img": "N/A"
+  },
+  {
+    "id": 23,
+    "question": "Give the course name of \"Real-time Programming\"",
+    "answer": "CS 452",
+    "category": "UW Course Codes",
+    "img": "N/A"
+  },
+  {
+    "id": 24,
+    "question": "Give the course name of ECE 423",
+    "answer": "Embedded Computer Systems",
+    "category": "UW Course Codes",
+    "img": "N/A"
+  },
+  {
+    "id": 25,
+    "question": "Give the course name of AVIA 100.",
+    "answer": "Introduction to Aviation",
+    "category": "UW Course Codes",
+    "img": "N/A"
+  },
+  {
+    "id": 26,
+    "question": "Give the course name of PMATH 347.",
+    "answer": "Groups and Rings",
+    "category": "UW Course Codes",
+    "img": "N/A"
+  },
+  {
+    "id": 27,
+    "question": "Give the course code for the course \"First-Year Mathematics Readiness\"",
+    "answer": "MTHEL99",
+    "category": "UW Course Codes",
+    "img": "N/A"
+  },
+  {
+    "id": 28,
+    "question": "Give the course code for the course \"Public Speaking\"",
+    "answer": "SPCOM 223",
+    "category": "UW Course Codes",
+    "img": "N/A"
+  },
+  {
+    "id": 29,
+    "question": "Give the course name of PHYS 121.",
+    "answer": "Mechanics",
+    "category": "UW Course Codes",
+    "img": "N/A"
+  },
+  {
+    "id": 30,
+    "question": "Give the course name of CS 480.",
+    "answer": "Introduction to Machine Learning",
+    "category": "UW Course Codes",
+    "img": "N/A"
+  },
+  {
+    "id": 31,
+    "question": "What iconic Nintendo 3D game featured an obscure musical instrument in its title?",
+    "answer": "Legend of Zelda: Ocarina of Time",
+    "category": "Nintendo",
+    "img": "N/A"
+  },
+  {
+    "id": 32,
+    "question": "What is the name of the iconic villain who serves as Mario's primary antagonist in the Super Mario series?",
+    "answer": "Bowser",
+    "category": "Nintendo",
+    "img": "N/A"
+  },
+  {
+    "id": 33,
+    "question": "In the Nintendo game series Animal Crossing, what is the name of the character who serves as the player's guide and mentor?",
+    "answer": "Tom Nook",
+    "category": "Nintendo",
+    "img": "N/A"
+  },
+  {
+    "id": 34,
+    "question": "What is the name of the Nintendo game series in which players control a group of characters known as Inklings who can transform between human and squid forms?",
+    "answer": "Splatoon",
+    "category": "Nintendo",
+    "img": "N/A"
+  },
+  {
+    "id": 35,
+    "question": "In the Mario Kart series, what item automatically targets first place?",
+    "answer": "Blue Shell",
+    "category": "Nintendo",
+    "img": "N/A"
+  },
+  {
+    "id": 36,
+    "question": "Which Nintendo game franchise features a plumber named Luigi as the main character?",
+    "answer": "Luigi's Mansion",
+    "category": "Nintendo",
+    "img": "N/A"
+  },
+  {
+    "id": 37,
+    "question": "In the Nintendo game series Metroid, what is the name of the protagonist?",
+    "answer": "Samus Aran",
+    "category": "Nintendo",
+    "img": "N/A"
+  },
+  {
+    "id": 38,
+    "question": "What are the avatars called that are used by Nintendo?",
+    "answer": "Mii",
+    "category": "Nintendo",
+    "img": "N/A"
+  },
+  {
+    "id": 39,
+    "question": "Which Nintendo console was the first to introduce motion-controlled gaming?",
+    "answer": "Wii",
+    "category": "Nintendo",
+    "img": "N/A"
+  },
+  {
+    "id": 40,
+    "question": "What was the first handheld gaming console released by Nintendo?",
+    "answer": "Game Boy",
+    "category": "Nintendo",
+    "img": "N/A"
+  },
+  {
+    "id": 41,
+    "question": "How many oceans does Canada border?",
+    "answer": 3,
+    "category": "Geography",
+    "img": "N/A"
+  },
+  {
+    "id": 42,
+    "question": "To the closest integer, what angle does the Leaning Tower of Pisa lean at?",
+    "answer": 4,
+    "category": "Geography",
+    "img": "N/A"
+  },
+  {
+    "id": 43,
+    "question": "What is the capital of Iceland? (you must spell it correctly)",
+    "answer": "Reykjavík",
+    "category": "Geography",
+    "img": "N/A"
+  },
+  {
+    "id": 44,
+    "question": "How many time zones does Russia have? (must be within +/- 1)",
+    "answer": 11,
+    "category": "Geography",
+    "img": "N/A"
+  },
+  {
+    "id": 45,
+    "question": "What is the circumfrence of the earth (in nautical miles)? Closest answer wins.",
+    "answer": 21639,
+    "category": "Geography",
+    "img": "N/A"
+  },
+  {
+    "id": 46,
+    "question": "What is the fourth most populous continent in the world?",
+    "answer": "North America",
+    "category": "Geography",
+    "img": "N/A"
+  },
+  {
+    "id": 47,
+    "question": "How many countries does the Nile river flow through?",
+    "answer": 11,
+    "category": "Geography",
+    "img": "N/A"
+  },
+  {
+    "id": 48,
+    "question": "How long is the US/Canada border (in km)? Closest answer wins.",
+    "answer": "8890 km",
+    "category": "Geography",
+    "img": "N/A"
+  },
+  {
+    "id": 49,
+    "question": "How many countries begin with the letter Y?",
+    "answer": 1,
+    "category": "Geography",
+    "img": "N/A"
+  },
+  {
+    "id": 50,
+    "question": "Which country has the biggest waterfall in the world?",
+    "answer": "Venezuela",
+    "category": "Geography",
+    "img": "N/A"
+  },
+  {
+    "id": 51,
+    "question": "What is the most iconic animal here at the University of Waterloo?",
+    "answer": "Goose",
+    "category": "Animals",
+    "img": "N/A"
+  },
+  {
+    "id": 52,
+    "question": "Which animal has the largest brain relative to its body size?",
+    "answer": "Dolphin",
+    "category": "Animals",
+    "img": "N/A"
+  },
+  {
+    "id": 53,
+    "question": "What is the collective noun for a group of crows?",
+    "answer": "Murder",
+    "category": "Animals",
+    "img": "N/A"
+  },
+  {
+    "id": 54,
+    "question": "What is the only bird species that can fly backward?",
+    "answer": "Hummingbird",
+    "category": "Animals",
+    "img": "N/A"
+  },
+  {
+    "id": 55,
+    "question": "Which animal has the longest lifespan of any terrestrial mammal?",
+    "answer": "Human",
+    "category": "Animals",
+    "img": "N/A"
+  },
+  {
+    "id": 56,
+    "question": "Name the animal from the image.",
+    "answer": "Lemur",
+    "category": "Animals",
+    "img": "lemur.png"
+  },
+  {
+    "id": 57,
+    "question": "Name the animal from the image.",
+    "answer": "Gekko",
+    "category": "Animals",
+    "img": "gekko.jpg"
+  },
+  {
+    "id": 58,
+    "question": "Name the animal from the image.",
+    "answer": "Llama",
+    "category": "Animals",
+    "img": "llama.png"
+  },
+  {
+    "id": 59,
+    "question": "Name the animal from the image.",
+    "answer": "Orangutan",
+    "category": "Animals",
+    "img": "orangutan.png"
+  },
+  {
+    "id": 60,
+    "question": "Name the animal from the image.",
+    "answer": "Baboon",
+    "category": "Animals",
+    "img": "baboon.png"
+  },
+  {
+    "id": 61,
+    "question": "Which Netflix series follows the adventures of a group of kids in the 1980s battling supernatural forces in their small town?",
+    "answer": "Stranger Things",
+    "category": "Netflix Movies and Shows",
+    "img": "N/A"
+  },
+  {
+    "id": 62,
+    "question": "In which Netflix original movie does Sandra Bullock play a mother trying to survive with her children in a post-apocalyptic world?",
+    "answer": "Bird Box",
+    "category": "Netflix Movies and Shows",
+    "img": "N/A"
+  },
+  {
+    "id": 63,
+    "question": "What is the name of the drug cartel leader portrayed by Wagner Moura in the Netflix series \"Narcos\"?",
+    "answer": "Pablo Escobar",
+    "category": "Netflix Movies and Shows",
+    "img": "N/A"
+  },
+  {
+    "id": 64,
+    "question": "Which Netflix show features an elite squad of teenagers with special abilities fighting crime in New York City?",
+    "answer": "The Umbrella Academy",
+    "category": "Netflix Movies and Shows",
+    "img": "N/A"
+  },
+  {
+    "id": 65,
+    "question": "In the series \"The Crown,\" who plays Queen Elizabeth II in the first two seasons?",
+    "answer": "Claire Foy",
+    "category": "Netflix Movies and Shows",
+    "img": "N/A"
+  },
+  {
+    "id": 66,
+    "question": "Which Netflix original film stars Timothée Chalamet as a young prince seeking revenge against his father's murderers?",
+    "answer": "The King",
+    "category": "Netflix Movies and Shows",
+    "img": "N/A"
+  },
+  {
+    "id": 67,
+    "question": "What is the name of the fictional town where the events of \"Stranger Things\" take place?",
+    "answer": "Hawkins",
+    "category": "Netflix Movies and Shows",
+    "img": "N/A"
+  },
+  {
+    "id": 68,
+    "question": "Which Netflix show follows the story of a high school teacher who becomes a successful drug dealer?",
+    "answer": "Breaking Bad",
+    "category": "Netflix Movies and Shows",
+    "img": "N/A"
+  },
+  {
+    "id": 69,
+    "question": "Which Netflix documentary series explores the lives of notorious serial killers and their crimes?",
+    "answer": "Mindhunter",
+    "category": "Netflix Movies and Shows",
+    "img": "N/A"
+  },
+  {
+    "id": 70,
+    "question": "In the series \"Money Heist,\" what is the nickname of the character Sergio Marquina?",
+    "answer": "The Professor",
+    "category": "Netflix Movies and Shows",
+    "img": "N/A"
+  },
+  {
+    "id": 71,
+    "question": "Who won the Grammy Award for Album of the Year in 2011 for their album \"The Suburbs\"?",
+    "answer": "Arcade Fire",
+    "category": "Music in the 2010s",
+    "img": "N/A"
+  },
+  {
+    "id": 72,
+    "question": "Which artist released the hit single \"Rolling in the Deep\" in 2010, which became one of the best-selling digital singles of all time?",
+    "answer": "Adele",
+    "category": "Music in the 2010s",
+    "img": "N/A"
+  },
+  {
+    "id": 73,
+    "question": "What was the title of Taylor Swift's first single from her album \"1989,\" which marked her departure from country music to pop?",
+    "answer": "Shake It Off",
+    "category": "Music in the 2010s",
+    "img": "N/A"
+  },
+  {
+    "id": 74,
+    "question": "Which rapper released the album \"good kid, m.A.A.d city\" in 2012, featuring hit singles like \"Swimming Pools (Drank)\" and \"Bitch, Don't Kill My Vibe\"?",
+    "answer": "Kendrick Lamar",
+    "category": "Music in the 2010s",
+    "img": "N/A"
+  },
+  {
+    "id": 75,
+    "question": "What was the name of Beyoncé's surprise self-titled album released in 2013, which featured the hit singles \"Drunk in Love\" and \"Partition\"?",
+    "answer": "Beyoncé",
+    "category": "Music in the 2010s",
+    "img": "N/A"
+  },
+  {
+    "id": 76,
+    "question": "Which electronic music duo released the album \"Random Access Memories\" in 2013, which won the Grammy Award for Album of the Year in 2014?",
+    "answer": "Daft Punk",
+    "category": "Music in the 2010s",
+    "img": "N/A"
+  },
+  {
+    "id": 77,
+    "question": "Which artist collaborated with Justin Timberlake on the hit song \"Suit & Tie\" released in 2013?",
+    "answer": "Jay-Z",
+    "category": "Music in the 2010s",
+    "img": "N/A"
+  },
+  {
+    "id": 78,
+    "question": "What was the title of Lorde's debut single, which propelled her to international fame in 2013?",
+    "answer": "Royals",
+    "category": "Music in the 2010s",
+    "img": "N/A"
+  },
+  {
+    "id": 79,
+    "question": "Which British band released the album \"AM\" in 2013, featuring hit singles like \"Do I Wanna Know?\" and \"R U Mine?\"",
+    "answer": "Arctic Monkeys",
+    "category": "Music in the 2010s",
+    "img": "N/A"
+  },
+  {
+    "id": 80,
+    "question": "What was the title of Childish Gambino's Grammy-winning song that explores themes of race and identity, released in 2018?",
+    "answer": "This Is America",
+    "category": "Music in the 2010s",
+    "img": "N/A"
+  },
+  {
+    "id": 81,
+    "question": "Who is the king of the gods in Greek mythology?",
+    "answer": "Zeus",
+    "category": "Greek Mythology",
+    "img": "N/A"
+  },
+  {
+    "id": 82,
+    "question": "What creature has the body of a lion, wings of an eagle, and the head of a human in Greek mythology?",
+    "answer": "Griffin",
+    "category": "Greek Mythology",
+    "img": "N/A"
+  },
+  {
+    "id": 83,
+    "question": "Who is the goddess of wisdom, warfare, and handicrafts in Greek mythology?",
+    "answer": "Athena",
+    "category": "Greek Mythology",
+    "img": "N/A"
+  },
+  {
+    "id": 84,
+    "question": "What is the name of the three-headed dog that guards the entrance to the underworld in Greek mythology?",
+    "answer": "Cerberus",
+    "category": "Greek Mythology",
+    "img": "N/A"
+  },
+  {
+    "id": 85,
+    "question": "Who is the god of the sea and earthquakes in Greek mythology?",
+    "answer": "Poseidon",
+    "category": "Greek Mythology",
+    "img": "N/A"
+  },
+  {
+    "id": 86,
+    "question": "What is the name of the goddess of love and beauty in Greek mythology?",
+    "answer": "Aphrodite",
+    "category": "Greek Mythology",
+    "img": "N/A"
+  },
+  {
+    "id": 87,
+    "question": "Which hero is known for completing the Twelve Labors, as punishment for killing his family in a fit of madness, in Greek mythology?",
+    "answer": "Heracles (Hercules)",
+    "category": "Greek Mythology",
+    "img": "N/A"
+  },
+  {
+    "id": 88,
+    "question": "What is the name of the goddess of the hunt, wilderness, and childbirth in Greek mythology?",
+    "answer": "Artemis",
+    "category": "Greek Mythology",
+    "img": "N/A"
+  },
+  {
+    "id": 89,
+    "question": "Who is the king of the underworld and the god of the dead in Greek mythology?",
+    "answer": "Hades",
+    "category": "Greek Mythology",
+    "img": "N/A"
+  },
+  {
+    "id": 90,
+    "question": "What creature is half-man and half-horse in Greek mythology?",
+    "answer": "Centaur",
+    "category": "Greek Mythology",
+    "img": "N/A"
+  },
+  {
+    "id": 91,
+    "question": "Who won the NBA Championship in 2019?",
+    "answer": "Toronto Raptors",
+    "category": "Sports",
+    "img": "N/A"
+  },
+  {
+    "id": 92,
+    "question": "Which athelete has the most Olympic gold medals?",
+    "answer": "Michael Phelps",
+    "category": "Sports",
+    "img": "N/A"
+  },
+  {
+    "id": 93,
+    "question": "How many teams are in the premier league?",
+    "answer": "20 teams",
+    "category": "Sports",
+    "img": "N/A"
+  },
+  {
+    "id": 94,
+    "question": "Who is the most followed athlete in the world? (Based on instagram followers)",
+    "answer": "Cristiano Ronaldo",
+    "category": "Sports",
+    "img": "N/A"
+  },
+  {
+    "id": 95,
+    "question": "Who held the 100 meters sprint world record before Usain Bolt?",
+    "answer": "Asafa Powell",
+    "category": "Sports",
+    "img": "N/A"
+  },
+  {
+    "id": 96,
+    "question": "How many feet long is a football field?",
+    "answer": "360 feet",
+    "category": "Sports",
+    "img": "N/A"
+  },
+  {
+    "id": 97,
+    "question": "Who is the all-time NBA scoring leader?",
+    "answer": "LeBron James",
+    "category": "Sports",
+    "img": "N/A"
+  },
+  {
+    "id": 98,
+    "question": "Who does this silhouette represent?",
+    "answer": "Michael Jordan",
+    "category": "Sports",
+    "img": "airjordan.jpg"
+  },
+  {
+    "id": 99,
+    "question": "How many rings are there in the Olympic flag?",
+    "answer": 5,
+    "category": "Sports",
+    "img": "N/A"
+  },
+  {
+    "id": 100,
+    "question": "Which athlete has been nicknamed \"the Great One\"?",
+    "answer": "Wayne Gretzky",
+    "category": "Sports",
+    "img": "N/A"
+  },
+  {
+    "id": 101,
+    "question": "What is the fastest animal on Earth?",
+    "answer": "Peregrine Falcon",
+    "category": "Science",
+    "img": "N/A"
+  },
+  {
+    "id": 102,
+    "question": "Is a cation positively or negatively charged?",
+    "answer": "Positively",
+    "category": "Science",
+    "img": "N/A"
+  },
+  {
+    "id": 103,
+    "question": "What is the name of the star commonly referred to as the North Star?",
+    "answer": "Polaris or α Ursae Minoris (accept either)",
+    "category": "Science",
+    "img": "N/A"
+  },
+  {
+    "id": 104,
+    "question": "Which historical scientist said \"Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.\"?",
+    "answer": "Archimedes",
+    "category": "Science",
+    "img": "N/A"
+  },
+  {
+    "id": 105,
+    "question": "Is obsidian an igneous, metamorphic, or sedimentary rock?",
+    "answer": "Igneous",
+    "category": "Science",
+    "img": "N/A"
+  },
+  {
+    "id": 106,
+    "question": "A volt is defined as Joules per what SI unit?",
+    "answer": "Coulomb",
+    "category": "Science",
+    "img": "N/A"
+  },
+  {
+    "id": 107,
+    "question": "Which Russian scientist was known for his conditioning experiments with dogs?",
+    "answer": "Pavlov",
+    "category": "Science",
+    "img": "N/A"
+  },
+  {
+    "id": 108,
+    "question": "What does the acronym 'GPS' stand for?",
+    "answer": "Global Positioning System",
+    "category": "Science",
+    "img": "N/A"
+  },
+  {
+    "id": 109,
+    "question": "Which isotope of plutonium is most commonly used in nuclear weapons?",
+    "answer": "Plutonium-239",
+    "category": "Science",
+    "img": "N/A"
+  },
+  {
+    "id": 110,
+    "question": "What is the name of the mechanism that determines the direction in which hurricanes spin?",
+    "answer": "Coriolis Effect",
+    "category": "Science",
+    "img": "N/A"
+  },
+  {
+    "id": 111,
+    "question": "Which Marvel Cinematic Universe movie contained the first appearance of Thanos?",
+    "answer": "The Avengers (2012)",
+    "category": "Films and Actors",
+    "img": "N/A"
+  },
+  {
+    "id": 112,
+    "question": "In Top Gun: Maverick, which actor played the titular character Pete \"Maverick\" Mitchell?",
+    "answer": "Tom Cruise",
+    "category": "Films and Actors",
+    "img": "N/A"
+  },
+  {
+    "id": 113,
+    "question": "Which singer voiced the character 'Giselle' in the 2016 film Zootopia?",
+    "answer": "Shakira",
+    "category": "Films and Actors",
+    "img": "N/A"
+  },
+  {
+    "id": 114,
+    "question": "What is the runtime of the 2021 film Zach Snyder's Justice League (commonly referred to as the 'Snyder Cut')",
+    "answer": "4 hours and 2 minutes",
+    "category": "Films and Actors",
+    "img": "N/A"
+  },
+  {
+    "id": 115,
+    "question": "Which 2022 Sony movie featured a character from the Spider-Man comics?",
+    "answer": "Morbius",
+    "category": "Films and Actors",
+    "img": "N/A"
+  },
+  {
+    "id": 116,
+    "question": "What is the name of the actor in the 'Emotional Damage' Internet meme?",
+    "answer": "Steven He",
+    "category": "Films and Actors",
+    "img": "N/A"
+  },
+  {
+    "id": 117,
+    "question": "The quote \"I'm gonna make him an offer he can't refuse\" originated from which movie?",
+    "answer": "The Godfather",
+    "category": "Films and Actors",
+    "img": "N/A"
+  },
+  {
+    "id": 118,
+    "question": "A 2017 historical film directed by Christopher Nolan depicted the evacuation of which location during the Second World War?",
+    "answer": "Dunkirk",
+    "category": "Films and Actors",
+    "img": "N/A"
+  },
+  {
+    "id": 119,
+    "question": "Which animated superhero film had a sequel that was released in 2018?",
+    "answer": "The Incredibles",
+    "category": "Films and Actors",
+    "img": "N/A"
+  },
+  {
+    "id": 120,
+    "question": "Which actor provided the voice of Darth Vader in Star Wars: A New Hope?",
+    "answer": "James Earl Jones",
+    "category": "Films and Actors",
+    "img": "N/A"
+  },
+  {
+    "id": 121,
+    "question": "What is the name of the mobile platformer game developed by RobTop Games?",
+    "answer": "Geometry Dash",
+    "category": "Gaming",
+    "img": "N/A"
+  },
+  {
+    "id": 122,
+    "question": "Which popular puzzle game was \"beaten\" for the first time in December of 2023?",
+    "answer": "Tetris",
+    "category": "Gaming",
+    "img": "N/A"
+  },
+  {
+    "id": 123,
+    "question": "Which video game series does the character Jetstream Sam belong to?",
+    "answer": "Metal Gear",
+    "category": "Gaming",
+    "img": "N/A"
+  },
+  {
+    "id": 124,
+    "question": "The strategy games Crusader Kings, Hearts of Iron, and Stellaris were developed by which video game publisher?",
+    "answer": "Paradox Interactive (accept \"Paradox\")",
+    "category": "Gaming",
+    "img": "N/A"
+  },
+  {
+    "id": 125,
+    "question": "Which platformer game features the player character exploring a kingdom called the Hallownest?",
+    "answer": "Hollow Knight",
+    "category": "Gaming",
+    "img": "N/A"
+  },
+  {
+    "id": 126,
+    "question": "In Minecraft, a Redstone Comparator is crafted with 3 redstone torches, 3 stone, and 1 of what item?",
+    "answer": "(Nether) Quartz",
+    "category": "Gaming",
+    "img": "N/A"
+  },
+  {
+    "id": 127,
+    "question": "What is the name of the city that Cyberpunk: 2077 is set in?",
+    "answer": "Night City",
+    "category": "Gaming",
+    "img": "N/A"
+  },
+  {
+    "id": 128,
+    "question": "What is the name of the movement technique found in multiple games that allows the player to move faster while repeatedly jumping?",
+    "answer": "Bunny Hopping",
+    "category": "Gaming",
+    "img": "N/A"
+  },
+  {
+    "id": 129,
+    "question": "Which video game does the e-sports player 'Rekkles' play?",
+    "answer": "League of Legends",
+    "category": "Gaming",
+    "img": "N/A"
+  },
+  {
+    "id": 130,
+    "question": "Which video game has hosted virtual concerts with artists Travis Scott and Eminem?",
+    "answer": "Fortnite",
+    "category": "Gaming",
+    "img": "N/A"
+  },
+  {
+    "id": 131,
+    "question": "What year was the Fall of Constantinople",
+    "answer": 1453,
+    "category": "History",
+    "img": "N/A"
+  },
+  {
+    "id": 132,
+    "question": "Who was the second President of the United States",
+    "answer": "John Adams",
+    "category": "History",
+    "img": "N/A"
+  },
+  {
+    "id": 133,
+    "question": "What was the name of the IJN Yamato's sister ship?",
+    "answer": "(IJN) Musashi",
+    "category": "History",
+    "img": "N/A"
+  },
+  {
+    "id": 134,
+    "question": "Where was Napoleon defeated?",
+    "answer": "Waterloo",
+    "category": "History",
+    "img": "N/A"
+  },
+  {
+    "id": 135,
+    "question": "What was the date of the Wright Brothers' first flight?",
+    "answer": "December 17th, 1903",
+    "category": "History",
+    "img": "N/A"
+  },
+  {
+    "id": 136,
+    "question": "What was the first programmable digital computer called?",
+    "answer": "ENIAC (Electronic Numerical Integrator And Computer)",
+    "category": "History",
+    "img": "N/A"
+  },
+  {
+    "id": 137,
+    "question": "What year was the USSR established in?",
+    "answer": 1922,
+    "category": "History",
+    "img": "N/A"
+  },
+  {
+    "id": 138,
+    "question": "Who was the last king of France?",
+    "answer": "Louis XVIII",
+    "category": "History",
+    "img": "N/A"
+  },
+  {
+    "id": 139,
+    "question": "Who invented the Stirling engine? (First and last name required)",
+    "answer": "Robert Stirling",
+    "category": "History",
+    "img": "N/A"
+  },
+  {
+    "id": 140,
+    "question": "What year was this building (Mike and Ophelia Lazaridis Quantum-Nano Centre) opened?",
+    "answer": 2012,
+    "category": "History",
+    "img": "N/A"
+  },
+  {
+    "id": 141,
+    "question": "Which country's flag is this?",
+    "answer": "Mexico",
+    "category": "Flags",
+    "img": "mexicoflag.png"
+  },
+  {
+    "id": 142,
+    "question": "Which country's flag is this?",
+    "answer": "Italy",
+    "category": "Flags",
+    "img": "italyflag.png"
+  },
+  {
+    "id": 143,
+    "question": "Which country's flag is this?",
+    "answer": "Bangladesh",
+    "category": "Flags",
+    "img": "bangladeshflag.png"
+  },
+  {
+    "id": 144,
+    "question": "Which country's flag is this?",
+    "answer": "Australia",
+    "category": "Flags",
+    "img": "australiaflag.png"
+  },
+  {
+    "id": 145,
+    "question": "Which country's flag is this?",
+    "answer": "Ukraine",
+    "category": "Flags",
+    "img": "ukraineflag.png"
+  },
+  {
+    "id": 146,
+    "question": "Which country's flag is this?",
+    "answer": "South Africa",
+    "category": "Flags",
+    "img": "southafricaflag.png"
+  },
+  {
+    "id": 147,
+    "question": "Which country's flag is this?",
+    "answer": "Turkey",
+    "category": "Flags",
+    "img": "turkeyflag.png"
+  },
+  {
+    "id": 148,
+    "question": "Which country's flag is this?",
+    "answer": "Madagascar",
+    "category": "Flags",
+    "img": "madagascarflag.png"
+  },
+  {
+    "id": 149,
+    "question": "Which country's flag is this?",
+    "answer": "France",
+    "category": "Flags",
+    "img": "franceflag.png"
+  },
+  {
+    "id": 150,
+    "question": "Which country's flag is this?",
+    "answer": "Finland",
+    "category": "Flags",
+    "img": "finlandflag.png"
+  },
+  {
+    "id": 151,
+    "question": "Guess the logo in the image",
+    "answer": "UW Portal",
+    "category": "Logos",
+    "img": "uwportallogo.png"
+  },
+  {
+    "id": 152,
+    "question": "Guess the logo in the image",
+    "answer": "New York Times",
+    "category": "Logos",
+    "img": "newyorktimeslogo.jpg"
+  },
+  {
+    "id": 153,
+    "question": "Guess the logo in the image",
+    "answer": "Toyota",
+    "category": "Logos",
+    "img": "toyotalogo.jpg"
+  },
+  {
+    "id": 154,
+    "question": "Guess the logo in the image",
+    "answer": "MasterCard",
+    "category": "Logos",
+    "img": "mastercardlogo.jpg"
+  }
 ]
