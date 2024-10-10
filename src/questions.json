@@ -1,1332 +1,1472 @@
 [
   {
-    "id": 1,
-    "question": "What is a boat with a dual hull referred to as?",
-    "answer": "Catamaran",
-    "category": "Vehicles",
-    "img": "N/A"
+	"id": 1,
+	"question": "How many Dragon Balls are there?",
+	"answer": "7",
+	"category": "Anime",
+	"img": "N/A"
   },
   {
-    "id": 2,
-    "question": "What is this type of ship called?",
-    "answer": "Icebreaker",
-    "category": "Vehicles",
-    "img": "icebreaker.jpg"
+	"id": 2,
+	"question": "In Spy x Family, what is the special ability of Anya Forger, the adopted daughter of Loid Forger?",
+	"answer": "Telepathy",
+	"category": "Anime",
+	"img": "N/A"
   },
   {
-    "id": 3,
-    "question": "What is the name of the sailing maneuver where a sailboat turns its bow through the wind?",
-    "answer": "Tacking",
-    "category": "Vehicles",
-    "img": "N/A"
+	"id": 3,
+	"question": "In Attack on Titan, what is the name of the gear do the soldiers use to fight Titans?",
+	"answer": "Omni-Directional Mobility Gear (ODM Gear)",
+	"category": "Anime",
+	"img": "N/A"
   },
   {
-    "id": 4,
-    "question": "What is the common name for a rotary-wing aircraft?",
-    "answer": "Helicopter",
-    "category": "Vehicles",
-    "img": "N/A"
+	"id": 4,
+	"question": "In Jujutsu Kaisen, what does Yuji Itadori swallow to become the host of a powerful curse?",
+	"answer": "Sukuna’s Finger",
+	"category": "Anime",
+	"img": "N/A"
   },
   {
-    "id": 5,
-    "question": "What is the function of the world's largest land vehicle?",
-    "answer": "Mining",
-    "category": "Vehicles",
-    "img": "N/A"
+	"id": 5,
+	"question": "In My Hero Academia, what is a hero’s ability called?",
+	"answer": "Quirk",
+	"category": "Anime",
+	"img": "N/A"
   },
   {
-    "id": 6,
-    "question": "What the name of the largest and most powerful rocket?",
-    "answer": "Starship",
-    "category": "Vehicles",
-    "img": "N/A"
+	"id": 6,
+	"question": "In Pokémon, what does Pikachu evolve into?",
+	"answer": "Raichu",
+	"category": "Anime",
+	"img": "N/A"
   },
   {
-    "id": 7,
-    "question": "Which type of vehicle can sometimes be miles long?",
-    "answer": "Train",
-    "category": "Vehicles",
-    "img": "N/A"
+	"id": 7,
+	"question": "Where is the location of 'Vinland', a historical land featured in Vinland Saga? Name the country or region.",
+	"answer": "Canada (specifically Newfoundland)",
+	"category": "Anime",
+	"img": "N/A"
   },
   {
-    "id": 8,
-    "question": "The Sentra, Altima, and Pathfinder are all car models made by what maker?",
-    "answer": "Nissan",
-    "category": "Vehicles",
-    "img": "N/A"
+	"id": 8,
+	"question": "How many episodes does One Piece have?",
+	"answer": "1121",
+	"category": "Anime",
+	"img": "N/A"
   },
   {
-    "id": 9,
-    "question": "Atlantis, Columbia, and Endeavour are well known examples of which type of vehicle?",
-    "answer": "Space Shuttle",
-    "category": "Vehicles",
-    "img": "N/A"
+	"id": 9,
+	"question": "In JoJo’s Bizarre Adventure, what is the name of the supernatural manifestation of a person’s fighting spirit that grants them unique powers?",
+	"answer": "Stand",
+	"category": "Anime",
+	"img": "N/A"
   },
   {
-    "id": 10,
-    "question": "Which model of car has sold the most units in history?",
-    "answer": "Toyota Corolla",
-    "category": "Vehicles",
-    "img": "N/A"
+	"id": 10,
+	"question": "What is the name of the talking black cat in Sailor Moon?",
+	"answer": "Luna",
+	"category": "Anime",
+	"img": "N/A"
   },
   {
-    "id": 11,
-    "question": "In Star Wars, which planet was Yoda on during Order 66?",
-    "answer": "Kashyyyk",
-    "category": "Science Fiction",
-    "img": "N/A"
+	"id": 11,
+	"question": "In Dune, what is the name of the valuable substance that can only be found on the desert planet Arrakis?",
+	"answer": "The spice melange",
+	"category": "Science Fiction",
+	"img": "N/A"
   },
   {
-    "id": 12,
-    "question": "In Star Trek, which quadrant of the galaxy is the Borg found in?",
-    "answer": "Delta Quadrant",
-    "category": "Science Fiction",
-    "img": "N/A"
+	"id": 12,
+	"question": "In The Matrix, what is the name of the real-world city where humans are hiding from the machines?",
+	"answer": "Zion",
+	"category": "Science Fiction",
+	"img": "N/A"
   },
   {
-    "id": 13,
-    "question": "Which acclaimed Chinese science fiction novel had a Netflix adaptation this year?",
-    "answer": "3 Body Problem",
-    "category": "Science Fiction",
-    "img": "N/A"
+	"id": 13,
+	"question": "What classical problem in physics lends its name to a popular science fiction novel that has had a recent Netflix adaptation?",
+	"answer": "Three Body Problem",
+	"category": "Science Fiction",
+	"img": "N/A"
   },
   {
-    "id": 14,
-    "question": "Horus Lupercal and Ciaphas Cain are characters in which science fiction franchise?",
-    "answer": "Warhammer 40k",
-    "category": "Science Fiction",
-    "img": "N/A"
+	"id": 14,
+	"question": "What is the name of the monster in Frankenstein?",
+	"answer": "It has no name",
+	"category": "Science Fiction",
+	"img": "N/A"
   },
   {
-    "id": 15,
-    "question": "Which science fiction author first posited the \"Three Laws of Robotics\"?",
-    "answer": "Isaac Asimov",
-    "category": "Science Fiction",
-    "img": "N/A"
+	"id": 15,
+	"question": "In 2001: A Space Odyssey, what is the mysterious object discovered on the Moon called?",
+	"answer": "The Monolith",
+	"category": "Science Fiction",
+	"img": "N/A"
   },
   {
-    "id": 16,
-    "question": "In Dune, what were the suits used by the Fremen called?",
-    "answer": "Stillsuits",
-    "category": "Science Fiction",
-    "img": "N/A"
+	"id": 16,
+	"question": "In Ready Player One, what is the name of the virtual reality world created by James Halliday?",
+	"answer": "The OASIS",
+	"category": "Science Fiction",
+	"img": "N/A"
   },
   {
-    "id": 17,
-    "question": "In which star system does the majority of the Avatar films take place in?",
-    "answer": "Alpha Centauri",
-    "category": "Science Fiction",
-    "img": "N/A"
+	"id": 17,
+	"question": "In which star system does the majority of the Avatar films take place in?",
+	"answer": "Alpha Centauri",
+	"category": "Science Fiction",
+	"img": "N/A"
   },
   {
-    "id": 18,
-    "question": "In Halo, what is the name of the largest UNSC warship?",
-    "answer": "UNSC Infinity",
-    "category": "Science Fiction",
-    "img": "N/A"
+	"id": 18,
+	"question": "In Star Trek, who was the first captain of the USS Enterprise?",
+	"answer": "Captain Christopher Pike",
+	"category": "Science Fiction",
+	"img": "N/A"
   },
   {
-    "id": 19,
-    "question": "Tom Cruise starred in which 2014 action movie involving time travel?",
-    "answer": "Edge of Tomorrow",
-    "category": "Science Fiction",
-    "img": "N/A"
+	"id": 19,
+	"question": "Tom Cruise starred in which 2014 action movie involving time travel?",
+	"answer": "Edge of Tomorrow",
+	"category": "Science Fiction",
+	"img": "N/A"
   },
   {
-    "id": 20,
-    "question": "In Back to the Future, which fictional device is essential for time travel?",
-    "answer": "Flux Capacitor",
-    "category": "Science Fiction",
-    "img": "N/A"
+	"id": 20,
+	"question": "In Back to the Future, which fictional device is essential for time travel?",
+	"answer": "Flux Capacitor",
+	"category": "Science Fiction",
+	"img": "N/A"
   },
   {
-    "id": 21,
-    "question": "Which cooperative shooter game was developed by Arrowhead Game Studios in 2024?",
-    "answer": "Helldivers 2",
-    "category": "Gaming",
-    "img": "N/A"
+	"id": 21,
+	"question": "When was the first moon landing? (closest year wins)",
+	"answer": "1962",
+	"category": "Important Dates",
+	"img": "N/A"
   },
   {
-    "id": 22,
-    "question": "When is Grand Theft Auto 6 scheduled to be released?",
-    "answer": 2025,
-    "category": "Gaming",
-    "img": "N/A"
+	"id": 22,
+	"question": "Which year did the Three Kingdom Era of China start? (closest year wins)",
+	"Answer": "222",
+	"category": "Important Dates",
+	"img": "N/A"
   },
   {
-    "id": 23,
-    "question": "Which video game holds the record for the largest concurrent PvP battle in gaming history?",
-    "answer": "EVE Online",
-    "category": "Gaming",
-    "img": "N/A"
+	"id": 23,
+	"question": "Which month is named in honour of Emperor Gaius Octavius?",
+	"answer": "August",
+	"category": "Important Dates",
+	"img": "N/A"
   },
   {
-    "id": 24,
-    "question": "In Clash of Clans, which Town Hall level unlocks the Inferno Tower?",
-    "answer": 10,
-    "category": "Gaming",
-    "img": "N/A"
+	"id": 24,
+	"question": "Which century was the America's discovered by Europeans?",
+	"answer": "11th",
+	"category": "Important Dates",
+	"img": "N/A"
   },
   {
-    "id": 25,
-    "question": "How long is the longest cutscene in the Metal Gear series? (Closest time wins)",
-    "answer": "71 minutes (this is not a typo)",
-    "category": "Gaming",
-    "img": "N/A"
+	"id": 25,
+	"question": "When was the Dominion of Canada invaded by its southern American neighbours? (closest year wins)",
+	"answer": "1812",
+	"category": "Important Dates",
+	"img": "N/A"
   },
   {
-    "id": 26,
-    "question": "Which League of Legends champion has an ability called \"Decimate\"?",
-    "answer": "Darius",
-    "category": "Gaming",
-    "img": "N/A"
+	"id": 26,
+	"question": "Where was the Hanging Gardens of the the seven wonders?",
+	"answer": "Babylon",
+	"category": "Places",
+	"img": "N/A"
   },
   {
-    "id": 27,
-    "question": "Which Minecraft YouTuber is well known for his redstone tutorials and in-game facial hair?",
-    "answer": "Mumbo Jumbo",
-    "category": "Gaming",
-    "img": "N/A"
+	"id": 27,
+	"question": "Between the provinces of Upper Canada and Lower Canada which was further north?",
+	"answer": "Lower Canada",
+	"category": "Places",
+	"img": "N/A"
   },
   {
-    "id": 28,
-    "question": "In Civilization, which character is humorously rumoured to become extremely aggressive and use nuclear weapons due to an underflow bug?",
-    "answer": "Gandhi",
-    "category": "Gaming",
-    "img": "N/A"
+	"id": 28,
+	"question": "Which modern nation was Archduke Ferdinand assassinated in?",
+	"answer": "Serbia",
+	"category": "Places",
+	"img": "N/A"
   },
   {
-    "id": 29,
-    "question": "The studio Ninja Kiwi is well known for which series of games?",
-    "answer": "Bloons Tower Defence",
-    "category": "Gaming",
-    "img": "N/A"
+	"id": 29,
+	"question": "Where was the historic capital of Japan before it was moved to Tokyo?",
+	"answer": "Kyoto",
+	"category": "Places",
+	"img": "N/A"
   },
   {
-    "id": 30,
-    "question": "Which game is the soundtrack \"The Only Thing They Fear Is You\" from?",
-    "answer": "Doom Eternal",
-    "category": "Gaming",
-    "img": "N/A"
+	"id": 30,
+	"question": "Which state was famously sold to the United States in 1867?",
+	"answer": "Alaska",
+	"category": "Places",
+	"img": "N/A"
   },
   {
-    "id": 31,
-    "question": "What is the name of the tanuki in the game Animal Crossing ",
-    "answer": "Tom Nook",
-    "category": "Gaming",
-    "img": "N/A"
+	"id": 31,
+	"question": "Who was the last undisputed king of France?",
+	"answer": "Louis Philippe I",
+	"category": "Historic Figures",
+	"img": "N/A"
   },
   {
-    "id": 32,
-    "question": "In the game Halo, what is the name of the Master Chief's AI companion? Microsoft later re-used this name for their own product.",
-    "answer": "Cortana",
-    "category": "Gaming",
-    "img": "N/A"
+	"id": 32,
+	"question": "Which British general famously lead the British-Canadian army in the Burning of Washington?",
+	"answer": "Robert Ross",
+	"category": "Historic Figures",
+	"img": "N/A"
   },
   {
-    "id": 33,
-    "question": "What is the most popular game engine owned by Epic Games ",
-    "answer": "Unreal Engine",
-    "category": "Gaming",
-    "img": "N/A"
+	"id": 33,
+	"question": "Who was the British Prime Minister before Winston Churchill?",
+	"answer": "Neville Chamberlain (also accept Clement Attlee)",
+	"category": "Historic Figures",
+	"img": "N/A"
   },
   {
-    "id": 34,
-    "question": "The 2018 video game Red Dead Redemption 2 is set in what year?",
-    "answer": 1899,
-    "category": "Gaming",
-    "img": "N/A"
+	"id": 34,
+	"question": "Who was the first woman to fly cross the Atlantic?",
+	"answer": "Amelia Earhart",
+	"category": "Historic Figures",
+	"img": "N/A"
   },
   {
-    "id": 35,
-    "question": "What is the current Any% speedrun record for Breath of the Wild? (Closest time wins)",
-    "answer": "23m23s",
-    "category": "Gaming",
-    "img": "N/A"
+	"id": 35,
+	"question": "Who lead the 1453 Siege of Constantinople?",
+	"answer": "Sultan Mehmed II",
+	"category": "Historic Figures",
+	"img": "N/A"
   },
   {
-    "id": 36,
-    "question": "Which Legend of Zelda game was the first with 3D graphics?",
-    "answer": "Ocarina of Time",
-    "category": "Gaming",
-    "img": "N/A"
+	"id": 36,
+	"question": "Which US president is famously depicted crossing the Delaware?",
+	"answer": "LeBron James",
+	"category": "Historic Figures",
+	"img": "N/A"
   },
   {
-    "id": 37,
-    "question": "Which Mario game introduces the character Rosalina?",
-    "answer": "Super Mario Galaxy",
-    "category": "Gaming",
-    "img": "N/A"
+	"id": 37,
+	"question": "Who are the only Canadian father/son duo to serve as prime ministers?",
+	"answer": "Pierre Elliot and Justin Trudeau",
+	"category": "Historic Figures",
+	"img": "N/A"
   },
   {
-    "id": 38,
-    "question": "Who was the first Final Fantasy character to be added to Super Smash Bros?",
-    "answer": "Cloud",
-    "category": "Gaming",
-    "img": "N/A"
+	"id": 38,
+	"question": "Who was the third astronaut on the moon?",
+	"answer": "Charles P. Conrad",
+	"category": "Historic Figures",
+	"img": "N/A"
   },
   {
-    "id": 39,
-    "question": "Gaming",
-    "answer": "Nintendo Wii",
-    "category": "Gaming",
-    "img": "N/A"
+	"id": 39,
+	"question": "Which modern artist is famously known for the words 'But we friends tho'?",
+	"answer": "Tyla",
+	"category": "Historic Figures",
+	"img": "N/A"
   },
   {
-    "id": 40,
-    "question": "What 1987 \"run and action\" game was developed and published by Konami as a coin-operated arcade game under a 6-letter 1-word title?",
-    "answer": "Contra",
-    "category": "Gaming",
-    "img": "N/A"
+	"id": 40,
+	"question": "Which Egyptian noble is known for having died young?",
+	"answer": "King Tut",
+	"category": "Historic Figures",
+	"img": "N/A"
   },
   {
-    "id": 41,
-    "question": "Who is the voice actor for Omni-Man in Invincible?",
-    "answer": "J.K. Simmons",
-    "category": "Television",
-    "img": "N/A"
+	"id": 41,
+	"question": "How would you declare a variable x to be 10, in Python?",
+	"answer": "x = 10",
+	"category": "DSA",
+	"img": "N/A"
   },
   {
-    "id": 42,
-    "question": "In Season 1 Episode 6 of Breaking Bad, which chemical is used by Walter White to cause an explosion?",
-    "answer": "Fulminated mercury",
-    "category": "Television",
-    "img": "N/A"
+	"id": 42,
+	"question": "What is the difference between a for loop and a while loop?",
+	"answer": "For for loops, number of iterations are known will for while loops, they are not",
+	"category": "DSA",
+	"img": "N/A"
   },
   {
-    "id": 43,
-    "question": "In Arcane, what is the name of the rebel group that Ekko works with?",
-    "answer": "The Firelights",
-    "category": "Television",
-    "img": "N/A"
+	"id": 43,
+	"question": "How many edges are in a tree with n nodes?",
+	"answer": "n-1",
+	"category": "DSA",
+	"img": "N/A"
   },
   {
-    "id": 44,
-    "question": "In Avatar: The Last Airbender, what was the name of the firebending Avatar who preceded Aang?",
-    "answer": "Roku",
-    "category": "Television",
-    "img": "N/A"
+	"id": 44,
+	"question": "What does BFS stand for?",
+	"answer": "Breadth First Search",
+	"category": "DSA",
+	"img": "N/A"
   },
   {
-    "id": 45,
-    "question": "Which actor played Billy Butcher in The Boys?",
-    "answer": "Karl Urban",
-    "category": "Television",
-    "img": "N/A"
+	"id": 45,
+	"question": "What is the time complexity of bubble sort?",
+	"answer": "O(n^2)",
+	"category": "DSA",
+	"img": "N/A"
   },
   {
-    "id": 46,
-    "question": "How many seasons of One Piece are there?",
-    "answer": 20,
-    "category": "Television",
-    "img": "N/A"
+	"id": 46,
+	"question": "What happens during a DFS when you reach a node which has already been visited previously?",
+	"answer": "it is a cycle",
+	"category": "DSA",
+	"img": "N/A"
   },
   {
-    "id": 47,
-    "question": "Which zombie apocalypse series based on a video game was produced in 2023?",
-    "answer": "The Last of Us",
-    "category": "Television",
-    "img": "N/A"
+	"id": 47,
+	"question": "What is the time complexity of accessing an element in an array?",
+	"answer": "O(1)",
+	"category": "DSA",
+	"img": "N/A"
   },
   {
-    "id": 48,
-    "question": "What is the longest running police procedurals and legal drama that was first releaced in 1990",
-    "answer": "",
-    "category": "Television",
-    "img": "N/A"
+	"id": 48,
+	"question": "What is the value of Integer.MAX_VALUE (in java) or INT_MAX (in C++)",
+	"answer": "2^31 - 1",
+	"category": "DSA",
+	"img": "N/A"
   },
   {
-    "id": 49,
-    "question": "Which science fiction television series featured a spaceship called the Rocinante?",
-    "answer": "The Expanse",
-    "category": "Television",
-    "img": "N/A"
+	"id": 49,
+	"question": "What is a naive implementation colloquially known as?",
+	"answer": "Brute Force",
+	"category": "DSA",
+	"img": "N/A"
   },
   {
-    "id": 50,
-    "question": "In Mandalorian season 3 who was the commander of the ISD Chimaera?",
-    "answer": "Grand Adm. Thrawn",
-    "category": "Television",
-    "img": "N/A"
+	"id": 50,
+	"question": "What does (5 | 6) evaluate to?",
+	"answer": 7,
+	"category": "DSA",
+	"img": "N/A"
   },
   {
-    "id": 51,
-    "question": "Which hockey player is nicknamed 'The Great One'?",
-    "answer": "Wayne Gretsky",
-    "category": "Sports",
-    "img": "N/A"
+	"id": 51,
+	"question": "What does this expression produce, (2 << 4)",
+	"answer": 32,
+	"category": "DSA",
+	"img": "N/A"
   },
   {
-    "id": 52,
-    "question": "Which hockey player once scored 10 points in a single game? (In hockey, points include both goals and assists)",
-    "answer": "Darryl Sittler",
-    "category": "Sports",
-    "img": "N/A"
+	"id": 52,
+	"question": "Name one site where tech companies host their online assessments (OAs)",
+	"answer": "HackerRank, CodeSignal, Codility, etc.",
+	"category": "DSA",
+	"img": "N/A"
   },
   {
-    "id": 53,
-    "question": "Which sport popularized the \"Griddy\" dance move?",
-    "answer": "(American) Football",
-    "category": "Sports",
-    "img": "N/A"
+	"id": 53,
+	"question": "How many LeetCode coins do you get by solving the daily problem?",
+	"answer": "10",
+	"category": "DSA",
+	"img": "N/A"
   },
   {
-    "id": 54,
-    "question": "Which country won the 2023 Cricket World Cup?",
-    "answer": "Australia",
-    "category": "Sports",
-    "img": "N/A"
+	"id": 54,
+	"question": "What was the language, Racket’s original name?",
+	"answer": "PLT Scheme",
+	"category": "DSA",
+	"img": "N/A"
   },
   {
-    "id": 55,
-    "question": "Who won the Superbowl last year?",
-    "answer": "Kansas City Chiefs ",
-    "category": "Sports",
-    "img": "N/A"
+	"id": 55,
+	"question": "When was C++ invented?",
+	"answer": 1979,
+	"category": "DSA",
+	"img": "N/A"
   },
   {
-    "id": 56,
-    "question": "Which country won the most FIFA World Cups?",
-    "answer": "Brazil ",
-    "category": "Sports",
-    "img": "N/A"
+	"id": 56,
+	"question": "What approach is famous for solving the knapsack problem?",
+	"answer": "DP",
+	"category": "DSA",
+	"img": "N/A"
   },
   {
-    "id": 57,
-    "question": "How many Superbowls did Tom Brady win throughout his career?",
-    "answer": 7,
-    "category": "Sports",
-    "img": "N/A"
+	"id": 57,
+	"question": "There is an algorithm called SPFA in graph theory, what is its full name?",
+	"answer": "Shortest Path Faster Algorithm",
+	"category": "DSA",
+	"img": "N/A"
   },
   {
-    "id": 58,
-    "question": "Who was the most recent rookie of the year in the NBA?",
-    "answer": "Victor Wembanyama ",
-    "category": "Sports",
-    "img": "N/A"
+	"id": 58,
+	"question": "What is the runtime of binary search?",
+	"answer": "O(logn) ",
+	"category": "DSA",
+	"img": "N/A"
   },
   {
-    "id": 59,
-    "question": "Which company does the F1 driver Max Verstappen currently have a contract with?",
-    "answer": "Red Bull",
-    "category": "Sports",
-    "img": "N/A"
+	"id": 59,
+	"question": "How many nodes are in a perfect binary tree of height n?",
+	"answer": "2^n - 1",
+	"category": "DSA",
+	"img": "N/A"
   },
   {
-    "id": 60,
-    "question": "Which professional athlete is the most followed person on Instagram?",
-    "answer": "Cristiano Ronaldo",
-    "category": "Sports",
-    "img": "N/A"
+	"id": 60,
+	"question": "What data structure is first in first out?",
+	"answer": "queue",
+	"category": "DSA",
+	"img": "N/A"
   },
   {
-    "id": 61,
-    "question": "Which song by Benny Blanco has the most streams on Spotify?",
-    "answer": "Eastside",
-    "category": "Music",
-    "img": "N/A"
+	"id": 61,
+	"question": "Which song by Benny Blanco has the most streams on Spotify?",
+	"answer": "Eastside",
+	"category": "Music",
+	"img": "N/A"
   },
   {
-    "id": 62,
-    "question": "Which song is commonly associated with videos of vehicles drifting?",
-    "answer": "Deja Vu",
-    "category": "Music",
-    "img": "N/A"
+	"id": 62,
+	"question": "Which song is commonly associated with videos of vehicles drifting?",
+	"answer": "Deja Vu",
+	"category": "Music",
+	"img": "N/A"
   },
   {
-    "id": 63,
-    "question": "Which music video (excluding Baby Shark) has the most views on YouTube?",
-    "answer": "Despacito",
-    "category": "Music",
-    "img": "N/A"
+	"id": 63,
+	"question": "Which music video (excluding Baby Shark) has the most views on YouTube?",
+	"answer": "Despacito",
+	"category": "Music",
+	"img": "N/A"
   },
   {
-    "id": 64,
-    "question": "Which rapper wrote the song 'Gang Related'?",
-    "answer": "Logic",
-    "category": "Music",
-    "img": "N/A"
+	"id": 64,
+	"question": "Which rapper wrote the song 'Gang Related'?",
+	"answer": "Logic",
+	"category": "Music",
+	"img": "N/A"
   },
   {
-    "id": 65,
-    "question": "Which K-Pop group released the album 'Armageddon'?",
-    "answer": "Aespa",
-    "category": "Music",
-    "img": "N/A"
+	"id": 65,
+	"question": "Which K-Pop group released the album 'Armageddon'?",
+	"answer": "Aespa",
+	"category": "Music",
+	"img": "N/A"
   },
   {
-    "id": 66,
-    "question": "Which heavy metal singer notoriously bit the head off a live bat?",
-    "answer": "Ozzy Osbourne",
-    "category": "Music",
-    "img": "N/A"
+	"id": 66,
+	"question": "Which heavy metal singer notoriously bit the head off a live bat?",
+	"answer": "Ozzy Osbourne",
+	"category": "Music",
+	"img": "N/A"
   },
   {
-    "id": 67,
-    "question": "How many Ed Sheeran albums are named after mathematical symbols?",
-    "answer": "5",
-    "category": "Music",
-    "img": "N/A"
+	"id": 67,
+	"question": "How many Ed Sheeran albums are named after mathematical symbols?",
+	"answer": "5",
+	"category": "Music",
+	"img": "N/A"
   },
   {
-    "id": 68,
-    "question": "What is the net worth of Taylor Swift's cat? (Closest answer wins)",
-    "answer": "$97 million",
-    "category": "Music",
-    "img": "N/A"
+	"id": 68,
+	"question": "What is the net worth of Taylor Swift's cat? (Closest answer wins)",
+	"answer": "$97 million",
+	"category": "Music",
+	"img": "N/A"
   },
   {
-    "id": 69,
-    "question": "What is Kendrick Lamar's last name? (It is not Lamar)",
-    "answer": "Duckworth",
-    "category": "Music",
-    "img": "N/A"
+	"id": 69,
+	"question": "What is Kendrick Lamar's last name? (It is not Lamar)",
+	"answer": "Duckworth",
+	"category": "Music",
+	"img": "N/A"
   },
   {
-    "id": 70,
-    "question": "Who wrote the song \"The Man Who Sold The World\"?",
-    "answer": "David Bowie",
-    "category": "Music",
-    "img": "N/A"
+	"id": 70,
+	"question": "Who wrote the song \"The Man Who Sold The World\"?",
+	"answer": "David Bowie",
+	"category": "Music",
+	"img": "N/A"
   },
   {
-    "id": 71,
-    "question": "In the English Civil War, who led the Parliamentarian army and was later proclaimed Lord Protector of the Commonwealth of England, Scotland, and Ireland?",
-    "answer": "Oliver Cromwell",
-    "category": "History",
-    "img": "N/A"
+	"id": 71,
+	"question": "In the English Civil War, who led the Parliamentarian army and was later proclaimed Lord Protector of the Commonwealth of England, Scotland, and Ireland?",
+	"answer": "Oliver Cromwell",
+	"category": "History",
+	"img": "N/A"
   },
   {
-    "id": 72,
-    "question": "In what year did Thomas Paine publish his pamphlet titled Common Sense, which garnered popular support for the independence movement of the Thirteen Colonies from the United Kingdom?",
-    "answer": "1776",
-    "category": "History",
-    "img": "N/A"
+	"id": 72,
+	"question": "In what year did Thomas Paine publish his pamphlet titled Common Sense, which garnered popular support for the independence movement of the Thirteen Colonies from the United Kingdom?",
+	"answer": "1776",
+	"category": "History",
+	"img": "N/A"
   },
   {
-    "id": 73,
-    "question": "Leif Erikson was credited with the discovery of Vinland (now known as North America), what was his father's name?",
-    "answer": "Erik the Red\n(also accept Erik Thorvaldsson or just Erik)",
-    "category": "History",
-    "img": "N/A"
+	"id": 73,
+	"question": "Leif Erikson was credited with the discovery of Vinland (now known as North America), what was his father's name?",
+	"answer": "Erik the Red\n(also accept Erik Thorvaldsson or just Erik)",
+	"category": "History",
+	"img": "N/A"
   },
   {
-    "id": 74,
-    "question": "In the 2024 TV series Shōgun (将軍), Yoshii Toranaga (吉井 虎永) went on to unite the entirety of Japan after the end of the series finale, establishing the longest-lasting shogunate in history. What was the name of his historical counterpart?",
-    "answer": "Tokugawa Ieyasu\n(also accept 徳川 家康, Matsudaira Takechiyo, 松平 竹千代, Matsudaira Ieyasu, 松平 家康, Matsudaira Motoyasu, or 松平 元康)",
-    "category": "History",
-    "img": "N/A"
+	"id": 74,
+	"question": "In the 2024 TV series Shōgun (将軍), Yoshii Toranaga (吉井 虎永) went on to unite the entirety of Japan after the end of the series finale, establishing the longest-lasting shogunate in history. What was the name of his historical counterpart?",
+	"answer": "Tokugawa Ieyasu\n(also accept 徳川 家康, Matsudaira Takechiyo, 松平 竹千代, Matsudaira Ieyasu, 松平 家康, Matsudaira Motoyasu, or 松平 元康)",
+	"category": "History",
+	"img": "N/A"
   },
   {
-    "id": 75,
-    "question": "Which country contains the launch site that the first artificial satellite, Sputnik 1, was launched from?",
-    "answer": "Gagarin's Start\n(also accept Baikonur Cosmodrome)",
-    "category": "History",
-    "img": "N/A"
+	"id": 75,
+	"question": "Which country contains the launch site that the first artificial satellite, Sputnik 1, was launched from?",
+	"answer": "Gagarin's Start\n(also accept Baikonur Cosmodrome)",
+	"category": "History",
+	"img": "N/A"
   },
   {
-    "id": 76,
-    "question": "The pharaohs' burial sites of the New Kingdom of Ancient Egypt between the Eighteenth Dynasty and the Twentieth Dynasty were noted for their departure from the traditional pyramid style. Where are these tombs located?",
-    "answer": "The Valley of Kings\n(also accept the Theban Necropolis)",
-    "category": "History",
-    "img": "N/A"
+	"id": 76,
+	"question": "The pharaohs' burial sites of the New Kingdom of Ancient Egypt between the Eighteenth Dynasty and the Twentieth Dynasty were noted for their departure from the traditional pyramid style. Where are these tombs located?",
+	"answer": "The Valley of Kings\n(also accept the Theban Necropolis)",
+	"category": "History",
+	"img": "N/A"
   },
   {
-    "id": 77,
-    "question": "Who was the popular Zulu king who reformed the kingdom and expanded its reach in the 19th century?",
-    "answer": "Shaka\n(also accept Sigidi)",
-    "category": "History",
-    "img": "N/A"
+	"id": 77,
+	"question": "Who was the popular Zulu king who reformed the kingdom and expanded its reach in the 19th century?",
+	"answer": "Shaka\n(also accept Sigidi)",
+	"category": "History",
+	"img": "N/A"
   },
   {
-    "id": 78,
-    "question": "France was the kingdom of the longest reigning sovereign in history. What was his name?",
-    "answer": "Louis XIV\n(also accept Louis the Great, Louis le Grand, the Sun King, or le Roi Soleil)",
-    "category": "History",
-    "img": "N/A"
+	"id": 78,
+	"question": "France was the kingdom of the longest reigning sovereign in history. What was his name?",
+	"answer": "Louis XIV\n(also accept Louis the Great, Louis le Grand, the Sun King, or le Roi Soleil)",
+	"category": "History",
+	"img": "N/A"
   },
   {
-    "id": 79,
-    "question": "What is the name of the pre-Columbian South American empire that is located in modern-day Chile and Peru?",
-    "answer": "Inca Empire\n(also accepts Tawantinsuyu)",
-    "category": "History",
-    "img": "N/A"
+	"id": 79,
+	"question": "What is the name of the pre-Columbian South American empire that is located in modern-day Chile and Peru?",
+	"answer": "Inca Empire\n(also accepts Tawantinsuyu)",
+	"category": "History",
+	"img": "N/A"
   },
   {
-    "id": 80,
-    "question": "Who was the captain of the first ship to cross the Antarctic Circle?",
-    "answer": "Capt. James Cook",
-    "category": "History",
-    "img": "N/A"
+	"id": 80,
+	"question": "Who was the captain of the first ship to cross the Antarctic Circle?",
+	"answer": "Capt. James Cook",
+	"category": "History",
+	"img": "N/A"
   },
   {
-    "id": 81,
-    "question": "Which 2024 Sony movie adapted the story of a lesser-known female Spider-Man character?",
-    "answer": "Madame Web",
-    "category": "Films",
-    "img": "N/A"
+	"id": 81,
+	"question": "What was the name of Kitchener, before 1916?",
+	"answer": "Berlin",
+	"category": "Waterloo Trivia",
+	"img": "N/A"
   },
   {
-    "id": 82,
-    "question": "Which DreamWorks film had the songs \"Crazy Train\", \"Back in Black\", and \"Welcome to the Jungle\" in its soundtrack?",
-    "answer": "Megamind",
-    "category": "Films",
-    "img": "N/A"
+	"id": 82,
+	"question": "How much did it cost to build E7? (closest answer wins)",
+	"answer": "88 million",
+	"category": "Waterloo Trivia",
+	"img": "N/A"
   },
   {
-    "id": 83,
-    "question": "Which drumming movie directed by Damien Chazelle won an Oscar in 2015",
-    "answer": "Whiplash ",
-    "category": "Films",
-    "img": "N/A"
+	"id": 83,
+	"question": "What company known for making corporate cell phones is a product of Waterloo students?",
+	"answer": "BlackBerry ",
+	"category": "Waterloo Trivia",
+	"img": "N/A"
   },
   {
-    "id": 84,
-    "question": "What is the highest grossing film in history?",
-    "answer": "Avatar",
-    "category": "Films",
-    "img": "N/A"
+	"id": 84,
+	"question": "What color tie do students in the Math faculty wear, and perform a dance in?",
+	"answer": "Pink",
+	"category": "Waterloo Trivia",
+	"img": "N/A"
   },
   {
-    "id": 85,
-    "question": "Who voiced Mr. Fox in the Wes Anderson adaption of Fantastic Mr. Fox  ",
-    "answer": "George Clooney ",
-    "category": "Films",
-    "img": "N/A"
+	"id": 85,
+	"question": "Which three cities make up the 'Tri-City'?",
+	"answer": "Kitchener, Waterloo, and Cambridge",
+	"category": "Waterloo Trivia",
+	"img": "N/A"
   },
   {
-    "id": 86,
-    "question": "Which director won the most Oscars in history?",
-    "answer": "John Ford (John Martin Feeney)",
-    "category": "Films",
-    "img": "N/A"
+	"id": 86,
+	"question": "Which restaurant in the UW Plaza is infamous for its 'number of lines'?",
+	"answer": "Lazeez",
+	"category": "Waterloo Trivia",
+	"img": "N/A"
   },
   {
-    "id": 87,
-    "question": "Who directed the film adaptation of J.R.R. Tolkien's \"The Lord of the Rings\" trilogy?",
-    "answer": "Peter Jackson ",
-    "category": "Films",
-    "img": "N/A"
+	"id": 87,
+	"question": "Which chess-based movie is famously filmed in Waterloo?",
+	"answer": "The Queen’s Gambit",
+	"category": "Waterloo Trivia",
+	"img": "N/A"
   },
   {
-    "id": 88,
-    "question": "What position does Harry Potter play in Quidditch?",
-    "answer": "Seeker ",
-    "category": "Films",
-    "img": "N/A"
+	"id": 88,
+	"question": "Which handsome online personality appeared at Waterloo REV last week?",
+	"answer": "CityBoyJJ ",
+	"category": "Waterloo Trivia",
+	"img": "N/A"
   },
   {
-    "id": 89,
-    "question": "Which Star Wars actor required plastic surgery to rebuild his face after a 1977 car accident?",
-    "answer": "Mark Hamill ",
-    "category": "Films",
-    "img": "N/A"
+	"id": 89,
+	"question": "How many quiet study rooms are there in DC?",
+	"answer": "Five (don’t forget the Staebler Insurance room!)",
+	"category": "Waterloo Trivia",
+	"img": "N/A"
   },
   {
-    "id": 90,
-    "question": "Which South-Korean film won an Oscar for Best Picture in 2020?",
-    "answer": "Parasite ",
-    "category": "Films",
-    "img": "N/A"
+	"id": 90,
+	"question": "What is the style of architecture of MC?",
+	"answer": "Brutalism ",
+	"category": "Waterloo Trivia",
+	"img": "N/A"
   },
   {
-    "id": 91,
-    "question": "How many hearts does an Octopus have?",
-    "answer": 3,
-    "category": "Animals",
-    "img": "N/A"
+	"id": 91,
+	"question": "What is the name of the company that manages the public scooters around campus?",
+	"answer": "Neuron",
+	"category": "Waterloo Trivia",
+	"img": "N/A"
   },
   {
-    "id": 92,
-    "question": "What is the tallest species of Penguin",
-    "answer": "Emperor Penguins ",
-    "category": "Animals",
-    "img": "N/A"
+	"id": 92,
+	"question": "What are the names of the four towers in Rez-One?",
+	"answer": "Ferguson, Blair, Hespeller, Elora ",
+	"category": "Waterloo Trivia",
+	"img": "N/A"
   },
   {
-    "id": 93,
-    "question": "How many bones do sharks have?",
-    "answer": "0/None (its all cartilage) ",
-    "category": "Animals",
-    "img": "N/A"
+	"id": 93,
+	"question": "What is the name of the road that goes all around campus?",
+	"answer": "Ring Road ",
+	"category": "Waterloo Trivia",
+	"img": "N/A"
   },
   {
-    "id": 94,
-    "question": "What colour is a polar bears skin (not fur) ",
-    "answer": "Black ",
-    "category": "Animals",
-    "img": "N/A"
+	"id": 94,
+	"question": "What is the name of the Waterloo professor who won the Nobel prize in 2018? ",
+	"answer": "Donna Strickland ",
+	"category": "Waterloo Trivia",
+	"img": "N/A"
   },
   {
-    "id": 95,
-    "question": "What is the only bird that can fly backwards?",
-    "answer": "Hummingbird ",
-    "category": "Animals",
-    "img": "N/A"
+	"id": 95,
+	"question": "What year was Waterloo founded?",
+	"answer": "1957 ",
+	"category": "Waterloo Trivia",
+	"img": "N/A"
   },
   {
-    "id": 96,
-    "question": "Whats the fastest animal in water ",
-    "answer": "Sailfish ",
-    "category": "Animals",
-    "img": "N/A"
+	"id": 96,
+	"question": "What is the oldest building on campus? ",
+	"answer": "Grad house ",
+	"category": "Waterloo Trivia",
+	"img": "N/A"
   },
   {
-    "id": 97,
-    "question": "What is the only mammal that can fly?",
-    "answer": "Bats ",
-    "category": "Animals",
-    "img": "N/A"
+	"id": 97,
+	"question": "Which League of Legends champion has the ultimate 'Last Breath'?",
+	"answer": "Yasuo ",
+	"category": "Waterloo Trivia",
+	"img": "N/A"
   },
   {
-    "id": 98,
-    "question": "What is the largest rodent called?",
-    "answer": "Capybara",
-    "category": "Animals",
-    "img": "N/A"
+	"id": 98,
+	"question": "What is the longest recorded time that someone has ever gone without showering? (closest answer wins)",
+	"answer": "60 years",
+	"category": "Waterloo Trivia",
+	"img": "N/A"
   },
   {
-    "id": 99,
-    "question": "What is the common name for the species felis catus?",
-    "answer": "Domestic cat",
-    "category": "Animals",
-    "img": "N/A"
+	"id": 99,
+	"question": "What is Vivek Goel’s home address?",
+	"answer": "382 Rosella Blvd",
+	"category": "Waterloo Trivia",
+	"img": "N/A"
   },
   {
-    "id": 100,
-    "question": "What is the name of the basal ceratopsian dinosaur that lived in Asia during the Late Cretaceous, around 75 to 71 million years ago?",
-    "answer": "Protoceratops",
-    "category": "Animals",
-    "img": "N/A"
+	"id": 100,
+	"question": "Who is DC named after?",
+	"answer": "William G. David",
+	"category": "Waterloo Trivia",
+	"img": "N/A"
   },
   {
     "id": 101,
-    "question": "Which scientist was the head of the German nuclear weapons program in World War 2?",
-    "answer": "Wener Karl Heisenberg ",
-    "category": "Pop Science",
+    "question": "What is the capital of Australia?",
+    "answer": "Canberra",
+    "category": "World Capitals",
     "img": "N/A"
   },
   {
     "id": 102,
-    "question": "What is the other common term for a quasi-stellar object?",
-    "answer": "Quasar",
-    "category": "Pop Science",
+    "question": "What is the capital of Iceland?",
+    "answer": "Reykjavik",
+    "category": "World Capitals",
     "img": "N/A"
   },
   {
     "id": 103,
-    "question": "What is the lightest unstable isotope of hydrogen?",
-    "answer": "Tritium",
-    "category": "Pop Science",
+    "question": "What is the capital of Brazil?",
+    "answer": "Brasília",
+    "category": "World Capitals",
     "img": "N/A"
   },
   {
     "id": 104,
-    "question": "What is the name of the exact temperature and pressure where a substance is solid, liquid, and gaseous at the same time?",
-    "answer": "Triple Point",
-    "category": "Pop Science",
+    "question": "What is the capital of Uraguay?",
+    "answer": "Montevideo",
+    "category": "World Capitals",
     "img": "N/A"
   },
   {
     "id": 105,
-    "question": "What is the name of the interstellar asteroid discovered in 2017?",
-    "answer": "Oumuamua",
-    "category": "Pop Science",
+    "question": "What is the capital of Egypt?",
+    "answer": "Cairo",
+    "category": "World Capitals",
     "img": "N/A"
   },
   {
     "id": 106,
-    "question": "What is the name of the chemical structure incorporated in the design of this building?",
-    "answer": "Graphene",
-    "category": "Pop Science",
+    "question": "What is the capital of Argentina?",
+    "answer": "Buenos Aires",
+    "category": "World Capitals",
     "img": "N/A"
   },
   {
     "id": 107,
-    "question": "What is the name of the geological feature found in Yellowstone, which is formed by the collapse of land after a volcanic eruption?",
-    "answer": "Caldera",
-    "category": "Pop Science",
+    "question": "What is the capital of Serbia?",
+    "answer": "Belgrade",
+    "category": "World Capitals",
     "img": "N/A"
   },
   {
     "id": 108,
-    "question": "Situated 8.6 light years from Earth, what is the brightest star in the night sky?",
-    "answer": "Sirius",
-    "category": "Pop Science",
+    "question": "What is the capital of India?",
+    "answer": "New Delhi",
+    "category": "World Capitals",
     "img": "N/A"
   },
   {
     "id": 109,
-    "question": "The sound of a siren changing as it passes you is an example of which scientific principle?",
-    "answer": "Doppler Effect",
-    "category": "Pop Science",
+    "question": "What is the capital of Burkina Faso?",
+    "answer": "Ouagadougou",
+    "category": "World Capitals",
     "img": "N/A"
   },
   {
     "id": 110,
-    "question": "What is the name of solution found within cells?",
-    "answer": "Cytoplasm",
-    "category": "Pop Science",
+    "question": "What is the capital of Oman?",
+    "answer": "Muscat",
+    "category": "World Capitals",
     "img": "N/A"
   },
   {
     "id": 111,
-    "question": "What is the RCAF Phase One Trainer aircraft called?",
-    "answer": "Grob 120A",
-    "category": "Military Aviation",
+    "question": "Who is the CEO of Tesla and SpaceX?",
+    "answer": "Elon Musk",
+    "category": "Tech CEOs",
     "img": "N/A"
   },
   {
     "id": 112,
-    "question": "What is the name of this aircraft?",
-    "answer": "F-16  (Fighting Falcon)",
-    "category": "Military Aviation",
-    "img": "f16.png"
+    "question": "Who is the CEO of Amazon?",
+    "answer": "Andy Jassy",
+    "category": "Tech CEOs",
+    "img": "N/A"
   },
   {
     "id": 113,
-    "question": "What was the name of the planned Canadian military aircraft cancelled in 1959?",
-    "answer": "Avro Arrow",
-    "category": "Military Aviation",
+    "question": "Who is the CEO of Apple?",
+    "answer": "Tim Cook",
+    "category": "Tech CEOs",
     "img": "N/A"
   },
   {
     "id": 114,
-    "question": "Which real life 5th-generation fighter were the enemy aircraft from Top Gun: Maverick based on?",
-    "answer": "Su-57",
-    "category": "Military Aviation",
+    "question": "Who is the CEO of Meta Platforms (formerly Facebook)?",
+    "answer": "Mark Zuckerberg",
+    "category": "Tech CEOs",
     "img": "N/A"
   },
   {
     "id": 115,
-    "question": "Which company produced the SR-71 Blackbird?",
-    "answer": "Lockheed Martin",
-    "category": "Military Aviation",
+    "question": "Who is the CEO of Alphabet (Google's parent company)?",
+    "answer": "Sundar Pichai",
+    "category": "Tech CEOs",
     "img": "N/A"
   },
   {
     "id": 116,
-    "question": "Who is this YouTuber?",
-    "answer": "Douglas Wreden (DougDoug)",
-    "category": "YouTube",
-    "img": "dougdoug.jpg"
+    "question": "Who is the CEO of Microsoft?",
+    "answer": "Satya Nadella",
+    "category": "Tech CEOs",
+    "img": "N/A"
   },
   {
     "id": 117,
-    "question": "What is the name of the YouTube channel created by Michael Stevens?",
-    "answer": "VSauce",
-    "category": "YouTube",
+    "question": "Who is the CEO of Twitter (X)?",
+    "answer": "Linda Yaccarino",
+    "category": "Tech CEOs",
     "img": "N/A"
   },
   {
     "id": 118,
-    "question": "What is the first YouTube video called?",
-    "answer": "Me at the zoo",
-    "category": "YouTube",
+    "question": "Who is the CEO of Netflix?",
+    "answer": "Ted Sarandos",
+    "category": "Tech CEOs",
     "img": "N/A"
   },
   {
     "id": 119,
-    "question": "What is MatPat's full name?",
-    "answer": "Matthew Patrick",
-    "category": "YouTube",
+    "question": "Who is the CEO of Nvidia?",
+    "answer": "Jensen Huang",
+    "category": "Tech CEOs",
     "img": "N/A"
   },
   {
     "id": 120,
-    "question": "How many subscribers does MrBeast currently have? (Closest number wins)",
-    "answer": "We will check right now",
-    "category": "YouTube",
+    "question": "Who is the CEO of Oracle?",
+    "answer": "Safra Catz",
+    "category": "Tech CEOs",
     "img": "N/A"
   },
   {
     "id": 121,
-    "question": "Guess the Logo",
-    "answer": "Hyundai",
-    "category": "Guess the Logo",
-    "img": "hyundai.png"
+    "question": "Song #1",
+    "answer": "Father Stretch My Hands Pt.2",
+    "category": "Name the Song",
+    "img": "N/A"
   },
   {
     "id": 122,
-    "question": "Guess the Logo",
-    "answer": "Riot",
-    "category": "Guess the Logo",
-    "img": "riot.png"
+    "question": "Song #2",
+    "answer": "Blinding Lights",
+    "category": "Name the Song",
+    "img": "N/A"
   },
   {
     "id": 123,
-    "question": "Guess the Logo",
-    "answer": "Canadian Armed Forces",
-    "category": "Guess the Logo",
-    "img": "cafLogo.jpg"
+    "question": "Song #3",
+    "answer": "Butter",
+    "category": "Name the Song",
+    "img": "N/A"
   },
   {
     "id": 124,
-    "question": "Guess the Logo",
-    "answer": "Honkai Star Rail",
-    "category": "Guess the Logo",
-    "img": "hsr.png"
+    "question": "Song #4",
+    "answer": "Apple",
+    "category": "Name the Song",
+    "img": "N/A"
   },
   {
     "id": 125,
-    "question": "Guess the Logo",
-    "answer": "Raspberry Pi",
-    "category": "Guess the Logo",
-    "img": "raspberrypi.png"
+    "question": "Song #5",
+    "answer": "Thriller",
+    "category": "Name the Song",
+    "img": "N/A"
   },
   {
     "id": 126,
-    "question": "Guess the Logo",
-    "answer": "University of Toronto",
-    "category": "Guess the Logo",
-    "img": "uoft.png"
+    "question": "Song #6",
+    "answer": "Thrift Shop",
+    "category": "Name the Song",
+    "img": "N/A"
   },
   {
     "id": 127,
-    "question": "Guess the Logo",
-    "answer": "James Webb Space Telescope",
-    "category": "Guess the Logo",
-    "img": "JWSTLogo.png"
+    "question": "Song #7",
+    "answer": "Old Town Road",
+    "category": "Name the Song",
+    "img": "N/A"
   },
   {
     "id": 128,
-    "question": "Guess the Logo (Text with the name was removed)",
-    "answer": "Lyrical Lemonade",
-    "category": "Guess the Logo",
-    "img": "LyricalLemonadeLogo.png"
+    "question": "Song #8",
+    "answer": "Fortnight",
+    "category": "Name the Song",
+    "img": "N/A"
   },
   {
     "id": 129,
-    "question": "Guess the Logo",
-    "answer": "Cohere",
-    "category": "Guess the Logo",
-    "img": "CohereLogo.png"
+    "question": "Song #9",
+    "answer": "One Dance",
+    "category": "Name the Song",
+    "img": "N/A"
   },
   {
     "id": 130,
-    "question": "Guess the Logo",
-    "answer": "MathSoc",
-    "category": "Guess the Logo",
-    "img": "MathSocLogo.png"
+    "question": "Song #10",
+    "answer": "YMCA",
+    "category": "Name the Song",
+    "img": "N/A"
   },
   {
     "id": 131,
-    "question": "Guess the celebrity",
-    "answer": "Levy Rozman (GothamChess)",
-    "category": "Celebrities",
-    "img": "gothamchess.png"
+    "question": "Which city hosted the 1986 Summer Olympics?",
+    "answer": "Athens",
+    "category": "Olympics",
+    "img": "N/A"
   },
   {
     "id": 132,
-    "question": "Guess the celebrity",
-    "answer": "Bill Nye",
-    "category": "Celebrities",
-    "img": "billnye.jpg"
+    "question": "Who is the most decorated Olympian of all time?",
+    "answer": "Michael Phelps",
+    "category": "Olympics",
+    "img": "N/A"
   },
   {
     "id": 133,
-    "question": "Guess the celebrity",
-    "answer": "Tom Hanks",
-    "category": "Celebrities",
-    "img": "tomhanks.jpg"
+    "question": "In which year did the first modern Olympics take place?",
+    "answer": "1896",
+    "category": "Olympics",
+    "img": "N/A"
   },
   {
     "id": 134,
-    "question": "Guess the celebrity",
-    "answer": "Mitski",
-    "category": "Celebrities",
-    "img": "mitski.png"
+    "question": "Which country has won the most Olympic medals in history?",
+    "answer": "United States",
+    "category": "Olympics",
+    "img": "N/A"
   },
   {
     "id": 135,
-    "question": "Guess the celebrity",
-    "answer": "Travis Kelce",
-    "category": "Celebrities",
-    "img": "traviskelce.png"
+    "question": "In which city were the 2020 Summer Olympics held?",
+    "answer": "Tokyo",
+    "category": "Olympics",
+    "img": "N/A"
   },
   {
     "id": 136,
-    "question": "Who is the singer who was formerly known as Pink Guy?",
-    "answer": "Joji",
-    "category": "Celebrities",
+    "question": "Who was the first woman to win five individual Olympic gold medals in gymnastics?",
+    "answer": "Nadia Comăneci",
+    "category": "Olympics",
     "img": "N/A"
   },
   {
     "id": 137,
-    "question": "Which actor played Star-Lord in the Guardians of the Galaxy?",
-    "answer": "Chris Pratt",
-    "category": "Celebrities",
+    "question": "How many points did Steph Curry get in the 2024 Finals against France? (closest answer wins)",
+    "answer": "24",
+    "category": "Olympics",
     "img": "N/A"
   },
   {
     "id": 138,
-    "question": "Which hip-hop artist appeared as a character based on himself, with a spoken role, in Across the Spiderverse?",
-    "answer": "Metro Boomin",
-    "category": "Celebrities",
+    "question": "Which city hosted the 2012 Summer Olympics?",
+    "answer": "London",
+    "category": "Olympics",
     "img": "N/A"
   },
   {
     "id": 139,
-    "question": "In the latest Garfield animated film, who is the voice actor for Garfield?",
-    "answer": "Chris Pratt",
-    "category": "Celebrities",
+    "question": "Which female gymnast won gold for all-around in 2020?",
+    "answer": "Suni Lee",
+    "category": "Olympics",
     "img": "N/A"
   },
   {
     "id": 140,
-    "question": "Which comedian did Will Smith slap at the Oscars?",
-    "answer": "Chris Rock",
-    "category": "Celebrities",
+    "question": "Which country hosted the Winter Olympics in 2010?",
+    "answer": "Canada",
+    "category": "Olympics",
     "img": "N/A"
   },
   {
     "id": 141,
-    "question": "Who was the first President of the University of Waterloo?",
-    "answer": "Gerald Hagey",
-    "category": "UW and CSC",
+    "question": "Who are Simba’s best friends?",
+    "answer": "Timon and Pumbaa",
+    "category": "Disney Movies",
     "img": "N/A"
   },
   {
     "id": 142,
-    "question": "What is the distance between UWP and REV? (rounded to the nearest 100 metres, closest number wins)",
-    "answer": "1800 meters",
-    "category": "UW and CSC",
+    "question": "What is the name of the reindeer in Frozen?",
+    "answer": "Sven",
+    "category": "Disney Movies",
     "img": "N/A"
   },
   {
     "id": 143,
-    "question": "How many Tim Hortons are there on the Waterloo campus?",
-    "answer": 5,
-    "category": "UW and CSC",
+    "question": "What object does Ariel use to comb her hair?",
+    "answer": "A fork",
+    "category": "Disney Movies",
     "img": "N/A"
   },
   {
     "id": 144,
-    "question": "What year is the next university residence planned to open?",
-    "answer": 2026,
-    "category": "UW and CSC",
+    "question": "What color dress is most closely associated with Belle?",
+    "answer": "Yellowt",
+    "category": "Disney Movies",
     "img": "N/A"
   },
   {
     "id": 145,
-    "question": "Which UW building was the first to be built?",
-    "answer": "DWE",
-    "category": "UW and CSC",
+    "question": "What was Aladdin’s first wish?",
+    "answer": "To become a prince",
+    "category": "Disney Movies",
     "img": "N/A"
   },
   {
     "id": 146,
-    "question": "What is the name of the official UW mascot?",
-    "answer": "King Warrior",
-    "category": "UW and CSC",
+    "question": "What species of animal is Moana’s companion on the boat?",
+    "answer": "Chicken",
+    "category": "Disney Movies",
     "img": "N/A"
   },
   {
     "id": 147,
-    "question": "What is the minimum number of bridges you must cross to travel from E6 to SLC (if you stay indoors the whole trip)?",
-    "answer": 5,
-    "category": "UW and CSC",
+    "question": "What are the new emotions introduced in Inside Out 2?",
+    "answer": "Anxiety, Embarrassment, Ennui, and Envy",
+    "category": "Disney Movies",
     "img": "N/A"
   },
   {
     "id": 148,
-    "question": "Which building and floor is the CSC office in?",
-    "answer": "MC 3rd floor",
-    "category": "UW and CSC",
+    "question": "What is the name of Mulan’s dragon?",
+    "answer": "Mushu",
+    "category": "Disney Movies",
     "img": "N/A"
   },
   {
     "id": 149,
-    "question": "What is the name of CSC's mascot?",
-    "answer": "Codey",
-    "category": "UW and CSC",
+    "question": "What is the name of the prince in 'Sleeping Beauty'?",
+    "answer": "Prince Phillip",
+    "category": "Disney Movies",
     "img": "N/A"
   },
   {
     "id": 150,
-    "question": "Who were the CSC Events leads last term? (Must answer both correctly to earn a point)",
-    "answer": "Nicholas Tao and Andrea Ma",
-    "category": "UW and CSC",
+    "question": "In the hit movie Encanto, which character do the others refuse to talk about?",
+    "answer": "Bruno",
+    "category": "Disney Movies",
     "img": "N/A"
   },
   {
     "id": 151,
-    "question": "This book's title is based on the temperature at which paper burns. Name this book and its author",
-    "answer": "Fahrenheit 451 by Ray Bradbury",
-    "category": "Literature",
+    "question": "Who was the first Prime Minister of Canada?",
+    "answer": "Sir John A. Macdonald",
+    "category": "Canadian History",
     "img": "N/A"
   },
   {
     "id": 152,
-    "question": "This book's first line is \"It was the worst of times, it was the best of times.\" Name this book and its author",
-    "answer": "A Tale of Two Cities by Charles Dickens",
-    "category": "Literature",
+    "question": "In which year did Canada become a country?",
+    "answer": "1867",
+    "category": "Canadian History",
     "img": "N/A"
   },
   {
     "id": 153,
-    "question": "In which year was \"The Hunger Games\" first published in hard cover? Bonus point if you can name the month as well",
-    "answer": "2008-09-14T04:00:00.000Z",
-    "category": "Literature",
+    "question": "Who is known as the 'Father of Medicare' in Canada?",
+    "answer": "Tommy Douglas",
+    "category": "Canadian History",
     "img": "N/A"
   },
   {
     "id": 154,
-    "question": "In \"Journey to the West\", Sun Wu Kong is sealed under a mountain by the Buddha. Why was he sealed?",
-    "answer": "For rebelling against heaven",
-    "category": "Literature",
+    "question": "What year did women in Canada gain the right to vote in federal elections?",
+    "answer": "1918",
+    "category": "Canadian History",
     "img": "N/A"
   },
   {
     "id": 155,
-    "question": "\"Crime and Punishment\" is a novel which explores the mental unravelling of a man after he kills a pawnbroker. Who is the author of this novel?",
-    "answer": "Fyodor Dostoevsky",
-    "category": "Literature",
+    "question": "What is the name of Canada's national police force?",
+    "answer": "Royal Canadian Mounted Police (RCMP)",
+    "category": "Canadian History",
     "img": "N/A"
   },
   {
     "id": 156,
-    "question": "How many countries are in North America (closest answer wins)?",
-    "answer": 23,
-    "category": "Geography",
+    "question": "Who was the Canadian Prime Minister during World War II?",
+    "answer": "William Lyon Mackenzie King",
+    "category": "Canadian History",
     "img": "N/A"
   },
   {
     "id": 157,
-    "question": "Which Canadian province is the smallest?",
-    "answer": "Prince Edward Island",
-    "category": "Geography",
+    "question": "Which province was the last to join Canada?",
+    "answer": "Newfoundland and Labrador",
+    "category": "Canadian History",
     "img": "N/A"
   },
   {
     "id": 158,
-    "question": "What is the second smallest country in the world?",
-    "answer": "Monaco",
-    "category": "Geography",
+    "question": "In which year did Canada officially adopt its flag, the Maple Leaf?",
+    "answer": "1965",
+    "category": "Canadian History",
     "img": "N/A"
   },
   {
     "id": 159,
-    "question": "What is the official currency of Japan?",
-    "answer": "Japanese yen",
-    "category": "Geography",
+    "question": "What is the name of the first female Prime Minister of Canada?",
+    "answer": "Kim Campbell",
+    "category": "Canadian History",
     "img": "N/A"
   },
   {
     "id": 160,
-    "question": "Which country has the most pyramids?",
-    "answer": "Sudan",
-    "category": "Geography",
+    "question": "Who was the Canadian Prime Minister during the Great Depression?",
+    "answer": "R.B. Bennett",
+    "category": "Canadian History",
     "img": "N/A"
   },
   {
     "id": 161,
-    "question": "How expensive is the Costco hot dog meal in Canada?",
-    "answer": "$1.50 CAD",
-    "category": "Food",
+    "question": "Which celebrity starred in the movie Titanic?",
+    "answer": "Leonardo DiCaprio",
+    "category": "Celebrities",
     "img": "N/A"
   },
   {
     "id": 162,
-    "question": "Some people have a gene which makes a particular herb taste like soap. Which herb is it?",
-    "answer": "Cilantro",
-    "category": "Food",
+    "question": "Who two rappers beefed near the beginning of the year?",
+    "Answer": "Kendrick Lamar and Drake",
+    "category": "Celebrities",
     "img": "N/A"
   },
   {
     "id": 163,
-    "question": "What is the butter flour mixture in French cuisine used to thicken soup?",
-    "answer": "Roux",
-    "category": "Food",
+    "question": "Which celebrity is known as the Queen of Pop?",
+    "answer": "Madonna",
+    "category": "Celebrities",
     "img": "N/A"
   },
   {
     "id": 164,
-    "question": "What is the vinegar, tarragon, egg yolk based sauce is most often used for steaks.",
-    "answer": "Bernaise Sauce",
-    "category": "Food",
+    "question": "Which celebrity starred in the movie The Pursuit of Happyness?",
+    "answer": "Will Smith",
+    "category": "Celebrities",
     "img": "N/A"
   },
   {
     "id": 165,
-    "question": "What is the process of slowly cooking a bird in low (90-100 C) bird fat called?",
-    "answer": "Confit",
-    "category": "Food",
+    "question": "Who is the music producer most recently arrested for a string of criminal charges?",
+    "answer": "Sean Combs (Diddy is also accepted)",
+    "category": "Celebrities",
     "img": "N/A"
   },
   {
     "id": 166,
-    "question": "Before the advent of canning, how did people store food using pot and butter?",
-    "answer": "Potting (submerging food in melted butter)",
-    "category": "Food",
+    "question": "Which actor is most famously associated with Scientology?",
+    "answer": "Tom Cruise",
+    "category": "Celebrities",
     "img": "N/A"
   },
   {
     "id": 167,
-    "question": "Originally, what did people do to pie crusts when eating a pie?",
-    "answer": "Discarded",
-    "category": "Food",
+    "question": "Which celebrity most famously took a dump on their ex’s bed?",
+    "answer": "Amber Heard",
+    "category": "Celebrities",
     "img": "N/A"
   },
   {
     "id": 168,
-    "question": "What kind of rice is yuanxiao made of.",
-    "answer": "Glutinous rice",
-    "category": "Food",
+    "question": "Which celebrity won an Oscar for the movie 'La La Land'?",
+    "answer": "Emma Stone",
+    "category": "Celebrities",
     "img": "N/A"
   },
   {
     "id": 169,
-    "question": "What was the original ketchup made of?",
-    "answer": "Mushrooms",
-    "category": "Food",
+    "question": "Which celebrity is known for his portrayal of the Joker in 'The Dark Knight'?",
+    "answer": "Heath Ledger",
+    "category": "Celebrities",
     "img": "N/A"
   },
   {
     "id": 170,
-    "question": "This sweet is made from deep-fried, thick sugar syrup and shaped into a large, pretzel-like shape, usually orange in color.",
-    "answer": "Jalebi",
-    "category": "Food",
+    "question": "Which celebrity starred in 'Wonder Woman'?",
+    "answer": "Gal Gadot",
+    "category": "Celebrities",
     "img": "N/A"
   },
   {
-    "id": 171,
-    "question": "Name the Greek myth which Hadestown is based off",
-    "answer": "Orpheus and Eurydice",
-    "category": "Mythology",
+	"id": 171,
+	"question": "Name the Greek myth which Hadestown is based off",
+	"answer": "Orpheus and Eurydice",
+	"category": "Mythology",
+	"img": "N/A"
+  },
+  {
+	"id": 172,
+	"question": "Name the hero in Japanese mythology that was born from a peach and fights ogres",
+	"answer": "Momotarō",
+	"category": "Mythology",
+	"img": "N/A"
+  },
+  {
+	"id": 173,
+	"question": "Name the hero in Celtic mythology that wields the weapon Gáe Bulg",
+	"answer": "Cú Chulainn",
+	"category": "Mythology",
+	"img": "N/A"
+  },
+  {
+	"id": 174,
+	"question": "In the myth of Eros and Psyche, what is the first trial that Psyche is given by Aphrodite?",
+	"answer": "To sort a pile of seeds and beans into seperate piles by dawn",
+	"category": "Mythology",
+	"img": "N/A"
+  },
+  {
+	"id": 175,
+	"question": "In Mycenean Greece, who was the head of the Pantheon?",
+	"answer": "Poseidon",
+	"category": "Mythology",
+	"img": "N/A"
+  },
+  {
+	"id": 176,
+	"question": "Dionysus is known as the god of wine (drunk). What was his predecessor, Orphic Dionysus, known as?",
+	"answer": "A god of death and rebirth",
+	"category": "Mythology",
+	"img": "N/A"
+  },
+  {
+	"id": 177,
+	"question": "Name the character in Greek mythology who falls in love with his own face",
+	"answer": "Narcissus",
+	"category": "Mythology",
+	"img": "N/A"
+  },
+  {
+	"id": 178,
+	"question": "In Chinese mythology, there were once 10 suns. Name the archer that shoots down 9 of the 10 suns",
+	"answer": "Hou Yi",
+	"category": "Mythology",
+	"img": "N/A"
+  },
+  {
+	"id": 179,
+	"question": "What is the name of the book that is a collection of prose and poems describing the myths and history of Ireland?",
+	"answer": "The Book of Invasions (Lebor Gabála Érenn)",
+	"category": "Mythology",
+	"img": "N/A"
+  },
+  {
+	"id": 180,
+	"question": "Name the two gods in Sumerian mythology that competed to create humanity",
+	"answer": "Enki and Ninmah",
+	"category": "Mythology",
+	"img": "N/A"
+  },
+  {
+	"id": 181,
+	"question": "Give the course name for CS 343.",
+	"answer": "Concurrent and Parallel Programming",
+	"category": "UW Course Codes",
+	"img": "N/A"
+  },
+  {
+	"id": 182,
+	"question": "Give the course name for CS 371.",
+	"answer": "Introduction to Computational Mathematics",
+	"category": "UW Course Codes",
+	"img": "N/A"
+  },
+  {
+	"id": 183,
+	"question": "Give the course name for FINE 130.",
+	"answer": "Introduction to Digital Imaging",
+	"category": "UW Course Codes",
+	"img": "N/A"
+  },
+  {
+	"id": 184,
+	"question": "Give the course name for PHYS 175.",
+	"answer": "Introduction to the Universe",
+	"category": "UW Course Codes",
+	"img": "N/A"
+  },
+  {
+	"id": 185,
+	"question": "Give the course name for ENGL 101B.",
+	"answer": "Introduction to Rhetorical Studies",
+	"category": "UW Course Codes",
+	"img": "N/A"
+  },
+  {
+	"id": 186,
+	"question": "Give the course code for the course \"Calculus 4\"",
+	"answer": "AMATH 231",
+	"category": "UW Course Codes",
+	"img": "N/A"
+  },
+  {
+	"id": 187,
+	"question": "Give the course code for the course \"Compiler Construction\"",
+	"answer": "CS 444",
+	"category": "UW Course Codes",
+	"img": "N/A"
+  },
+  {
+	"id": 188,
+	"question": "Give the course code for the course \"Introduction to Combinatorics (Advanced Level)\"",
+	"answer": "MATH 249",
+	"category": "UW Course Codes",
+	"img": "N/A"
+  },
+  {
+	"id": 189,
+	"question": "Give the course code for the course \"Elementary German 1\"",
+	"answer": "GER 101",
+	"category": "UW Course Codes",
+	"img": "N/A"
+  },
+  {
+	"id": 190,
+	"question": "Give the course code for the course \"Introduction to Actuarial Practice\"",
+	"answer": "MTHEL 131",
+	"category": "UW Course Codes",
+	"img": "N/A"
+  },
+  {
+    "id": 191,
+    "question": "What is the largest planet in our solar system?",
+    "answer": "Jupiter",
+    "category": "Astronomy",
     "img": "N/A"
   },
   {
-    "id": 172,
-    "question": "Name the hero in Japanese mythology that was born from a peach and fights ogres",
-    "answer": "Momotarō",
-    "category": "Mythology",
+    "id": 192,
+    "question": "Which planet is closest to the Sun?",
+    "answer": "Mercury",
+    "category": "Astronomy",
     "img": "N/A"
   },
   {
-    "id": 173,
-    "question": "Name the hero in Celtic mythology that wields the weapon Gáe Bulg",
-    "answer": "Cú Chulainn",
-    "category": "Mythology",
+    "id": 193,
+    "question": "What is the name of the galaxy that contains our solar system?",
+    "answer": "Milky Way",
+    "category": "Astronomy",
     "img": "N/A"
   },
   {
-    "id": 174,
-    "question": "In the myth of Eros and Psyche, what is the first trial that Psyche is given by Aphrodite?",
-    "answer": "To sort a pile of seeds and beans into seperate piles by dawn",
-    "category": "Mythology",
+    "id": 194,
+    "question": "What is the second smallest planet in our solar system?",
+    "answer": "Mars",
+    "category": "Astronomy",
     "img": "N/A"
   },
   {
-    "id": 175,
-    "question": "In Mycenean Greece, who was the head of the Pantheon?",
-    "answer": "Poseidon",
-    "category": "Mythology",
+    "id": 195,
+    "question": "What is the hottest planet in our solar system?",
+    "answer": "Venus",
+    "category": "Astronomy",
     "img": "N/A"
   },
   {
-    "id": 176,
-    "question": "Dionysus is known as the god of wine (drunk). What was his predecessor, Orphic Dionysus, known as?",
-    "answer": "A god of death and rebirth",
-    "category": "Mythology",
+    "id": 196,
+    "question": "What is the name of the largest moon of Saturn?",
+    "answer": "Titan",
+    "category": "Astronomy",
     "img": "N/A"
   },
   {
-    "id": 177,
-    "question": "Name the character in Greek mythology who falls in love with his own face",
-    "answer": "Narcissus",
-    "category": "Mythology",
+    "id": 197,
+    "question": "What is the term for a star that has collapsed under its own gravity?",
+    "answer": "Black hole",
+    "category": "Astronomy",
     "img": "N/A"
   },
   {
-    "id": 178,
-    "question": "In Chinese mythology, there were once 10 suns. Name the archer that shoots down 9 of the 10 suns",
-    "answer": "Hou Yi",
-    "category": "Mythology",
+    "id": 198,
+    "question": "Which planet in our solar system is known for its prominent ring system?",
+    "answer": "Saturn",
+    "category": "Astronomy",
     "img": "N/A"
   },
   {
-    "id": 179,
-    "question": "What is the name of the book that is a collection of prose and poems describing the myths and history of Ireland?",
-    "answer": "The Book of Invasions (Lebor Gabála Érenn)",
-    "category": "Mythology",
+    "id": 199,
+    "question": "What type of star is the Sun?",
+    "answer": "Yellow dwarf (G-type main-sequence star)",
+    "category": "Astronomy",
     "img": "N/A"
   },
   {
-    "id": 180,
-    "question": "Name the two gods in Sumerian mythology that competed to create humanity",
-    "answer": "Enki and Ninmah",
-    "category": "Mythology",
+    "id": 200,
+    "question": "What is the term for the boundary around a black hole from which nothing can escape?",
+    "answer": "Event horizon",
+    "category": "Astronomy",
     "img": "N/A"
   },
   {
-    "id": 181,
-    "question": "Give the course name for CS 343.",
-    "answer": "Concurrent and Parallel Programming",
-    "category": "UW Course Codes",
+    "id": 201,
+    "question": "Which planet is known as the Morning Star or Evening Star?",
+    "answer": "Venus",
+    "category": "Astronomy",
     "img": "N/A"
   },
   {
-    "id": 182,
-    "question": "Give the course name for CS 371.",
-    "answer": "Introduction to Computational Mathematics",
-    "category": "UW Course Codes",
+    "id": 202,
+    "question": "What is the name of the closest star to Earth, other than the Sun?",
+    "answer": "Proxima Centauri",
+    "category": "Astronomy",
     "img": "N/A"
   },
   {
-    "id": 183,
-    "question": "Give the course name for FINE 130.",
-    "answer": "Introduction to Digital Imaging",
-    "category": "UW Course Codes",
+    "id": 203,
+    "question": "Which planet has the longest day (the time it takes to rotate once on its axis)?",
+    "answer": "Venus",
+    "category": "Astronomy",
     "img": "N/A"
   },
   {
-    "id": 184,
-    "question": "Give the course name for PHYS 175.",
-    "answer": "Introduction to the Universe",
-    "category": "UW Course Codes",
+    "id": 204,
+    "question": "What are comets mostly made of?",
+    "answer": "Ice and dust",
+    "category": "Astronomy",
     "img": "N/A"
   },
   {
-    "id": 185,
-    "question": "Give the course name for ENGL 101B.",
-    "answer": "Introduction to Rhetorical Studies",
-    "category": "UW Course Codes",
+    "id": 205,
+    "question": "Which dwarf planet is located in the asteroid belt between Mars and Jupiter?",
+    "answer": "Ceres",
+    "category": "Astronomy",
     "img": "N/A"
   },
   {
-    "id": 186,
-    "question": "Give the course code for the course \"Calculus 4\"",
-    "answer": "AMATH 231",
-    "category": "UW Course Codes",
+    "id": 206,
+    "question": "What is the term for a rocky object that enters Earth's atmosphere and burns up?",
+    "answer": "Meteor",
+    "category": "Astronomy",
     "img": "N/A"
   },
   {
-    "id": 187,
-    "question": "Give the course code for the course \"Compiler Construction\"",
-    "answer": "CS 444",
-    "category": "UW Course Codes",
+    "id": 207,
+    "question": "What is the name of the first artificial satellite to be launched into space?",
+    "answer": "Sputnik 1",
+    "category": "Astronomy",
     "img": "N/A"
   },
   {
-    "id": 188,
-    "question": "Give the course code for the course \"Introduction to Combinatorics (Advanced Level)\"",
-    "answer": "MATH 249",
-    "category": "UW Course Codes",
+    "id": 208,
+    "question": "Which planet is known for having the Great Red Spot, a giant storm?",
+    "answer": "Jupiter",
+    "category": "Astronomy",
     "img": "N/A"
   },
   {
-    "id": 189,
-    "question": "Give the course code for the course \"Elementary German 1\"",
-    "answer": "GER 101",
-    "category": "UW Course Codes",
+    "id": 209,
+    "question": "What is the most common type of galaxy in the universe?",
+    "answer": "Elliptical galaxy",
+    "category": "Astronomy",
     "img": "N/A"
   },
   {
-    "id": 190,
-    "question": "Give the course code for the course \"Introduction to Actuarial Practice\"",
-    "answer": "MTHEL 131",
-    "category": "UW Course Codes",
+    "id": 210,
+    "question": "Which planet has the largest volcano in the solar system, named Olympus Mons?",
+    "answer": "Mars",
+    "category": "Astronomy",
     "img": "N/A"
   }
 ]
